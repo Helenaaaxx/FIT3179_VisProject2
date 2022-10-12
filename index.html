@@ -30,6 +30,7 @@
   <div class="pure-g">
     <div class="pure-u-1-1">
       <div class = "main_divider">
+        <br>
         <h1>Causes of Deaths in Australia </h1>
       </div>
     </div>
@@ -38,10 +39,10 @@
 
   <!-- pure grid group -->
   <div class="pure-g">
-    <div class="pure-u-1-2">
-      <div id="choropleth_no_filter" class="vis-container"></div>
+    <div class="pure-u-2-3">
+        <div id="bump_chart" class="vis-container"></div>
     </div>
-    <div class="pure-u-1-2">
+    <div class="pure-u-1-3">
       <div class="description description-left">
         <p> (paragraph of introduction - write later) </p>
       </div>
@@ -53,6 +54,7 @@
   <div class="pure-g">
     <div class="pure-u-1-1">
       <div class = "sub_divider">
+        <br>
         <h1>Deaths Caused by Diseases</h1>
       </div>
     </div>
@@ -262,15 +264,36 @@
 
   <!-- pure grid group -->
   <div class="pure-g">
-      <div class="pure-u-1-2">
-          <div id="choropleth_map" class="vis-container"></div>
-      </div>
-      <div class="pure-u-1-2">
-        <div class="description description-left">
-          <p> (paragraph for choropleth chart - write later) </p>
-        </div>
-      </div>
+    <div class="pure-u-1-3">
+        <div id="choropleth_map_overall" class="vis-container"></div>
     </div>
+    <div class="pure-u-1-3">
+        <div id="choropleth_map_male" class="vis-container"></div>
+    </div>
+    <div class="pure-u-1-3">
+        <div id="choropleth_map_female" class="vis-container"></div>
+    </div>
+  </div>
+  <!-- end pure grid group -->
+
+  <!-- pure grid group -->
+  <div class="pure-g">
+    <div class="pure-u-1-3">
+        <div class="description description-left">
+            <p> (paragraph for overall gender - write later) </p>
+        </div>
+    </div>
+    <div class="pure-u-1-3">
+        <div class="description description-left">
+            <p> (paragraph for make - write later) </p>
+        </div>
+    </div>
+    <div class="pure-u-1-3">
+        <div class="description description-left">
+            <p> (paragraph for female - write later) </p>
+        </div>
+    </div>
+  </div>
   <!-- end pure grid group -->
 
   <!-- pure grid group -->
@@ -348,8 +371,8 @@
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
 
-    var specVis8 = "js/final_choropleth_prob.json";
-    vegaEmbed('#choropleth_map', specVis8).then(function (result) {
+    var specVis8 = "js/choropleth_nogender_suicide.json";
+    vegaEmbed('#choropleth_map_overall', specVis8).then(function (result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
 
@@ -360,6 +383,21 @@
 
     var specVis10 = "js/choropleth_map_no_filter.json";
     vegaEmbed('#choropleth_no_filter', specVis10).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    var specVis11 = "js/choropleth_male_suicide.json";
+    vegaEmbed('#choropleth_map_male', specVis11).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    var specVis12 = "js/choropleth_female_suicide.json";
+    vegaEmbed('#choropleth_map_female', specVis12).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    var specVis13 = "js/bump_chart_legend_filter.json";
+    vegaEmbed('#bump_chart', specVis13).then(function (result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
 
