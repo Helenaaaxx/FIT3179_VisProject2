@@ -1,0 +1,1081 @@
+Year,States,Malignant Neoplasm of,Number of Deaths
+2011,Australia,Oesophagus (C15),1229
+2011,Australia,Stomach (C16),1142
+2011,Australia,Small Intestine (C17),95
+2011,Australia,Colon (C18),2077
+2011,Australia,Rectosigmoid Junction (C19),1216
+2011,Australia,Rectum (C20),706
+2011,Australia,Anus and Anal Canal (C21),88
+2011,Australia,Liver and Intrahepatic Bile Ducts (C22),1423
+2011,Australia,Gallbladder (C23),152
+2011,Australia,Other and Unspecified Parts of Biliary Tract (C24),97
+2011,Australia,Pancreas (C25),2416
+2011,Australia,Other and Ill-defined Digestive Organs (C26),1264
+2012,Australia,Oesophagus (C15),1203
+2012,Australia,Stomach (C16),1143
+2012,Australia,Small Intestine (C17),127
+2012,Australia,Colon (C18),1965
+2012,Australia,Rectosigmoid Junction (C19),1328
+2012,Australia,Rectum (C20),690
+2012,Australia,Anus and Anal Canal (C21),71
+2012,Australia,Liver and Intrahepatic Bile Ducts (C22),1490
+2012,Australia,Gallbladder (C23),178
+2012,Australia,Other and Unspecified Parts of Biliary Tract (C24),76
+2012,Australia,Pancreas (C25),2524
+2012,Australia,Other and Ill-defined Digestive Organs (C26),1239
+2013,Australia,Oesophagus (C15),1245
+2013,Australia,Stomach (C16),1227
+2013,Australia,Small Intestine (C17),107
+2013,Australia,Colon (C18),1946
+2013,Australia,Rectosigmoid Junction (C19),1509
+2013,Australia,Rectum (C20),708
+2013,Australia,Anus and Anal Canal (C21),72
+2013,Australia,Liver and Intrahepatic Bile Ducts (C22),1574
+2013,Australia,Gallbladder (C23),165
+2013,Australia,Other and Unspecified Parts of Biliary Tract (C24),92
+2013,Australia,Pancreas (C25),2559
+2013,Australia,Other and Ill-defined Digestive Organs (C26),1237
+2014,Australia,Oesophagus (C15),1198
+2014,Australia,Stomach (C16),1138
+2014,Australia,Small Intestine (C17),98
+2014,Australia,Colon (C18),1774
+2014,Australia,Rectosigmoid Junction (C19),1601
+2014,Australia,Rectum (C20),698
+2014,Australia,Anus and Anal Canal (C21),98
+2014,Australia,Liver and Intrahepatic Bile Ducts (C22),1732
+2014,Australia,Gallbladder (C23),155
+2014,Australia,Other and Unspecified Parts of Biliary Tract (C24),84
+2014,Australia,Pancreas (C25),2547
+2014,Australia,Other and Ill-defined Digestive Organs (C26),1224
+2015,Australia,Oesophagus (C15),1329
+2015,Australia,Stomach (C16),1151
+2015,Australia,Small Intestine (C17),101
+2015,Australia,Colon (C18),1780
+2015,Australia,Rectosigmoid Junction (C19),1860
+2015,Australia,Rectum (C20),711
+2015,Australia,Anus and Anal Canal (C21),87
+2015,Australia,Liver and Intrahepatic Bile Ducts (C22),1820
+2015,Australia,Gallbladder (C23),177
+2015,Australia,Other and Unspecified Parts of Biliary Tract (C24),113
+2015,Australia,Pancreas (C25),2764
+2015,Australia,Other and Ill-defined Digestive Organs (C26),1241
+2016,Australia,Oesophagus (C15),1338
+2016,Australia,Stomach (C16),1087
+2016,Australia,Small Intestine (C17),120
+2016,Australia,Colon (C18),1754
+2016,Australia,Rectosigmoid Junction (C19),1915
+2016,Australia,Rectum (C20),661
+2016,Australia,Anus and Anal Canal (C21),87
+2016,Australia,Liver and Intrahepatic Bile Ducts (C22),1866
+2016,Australia,Gallbladder (C23),156
+2016,Australia,Other and Unspecified Parts of Biliary Tract (C24),113
+2016,Australia,Pancreas (C25),2911
+2016,Australia,Other and Ill-defined Digestive Organs (C26),1171
+2017,Australia,Oesophagus (C15),1266
+2017,Australia,Stomach (C16),1161
+2017,Australia,Small Intestine (C17),132
+2017,Australia,Colon (C18),1607
+2017,Australia,Rectosigmoid Junction (C19),1912
+2017,Australia,Rectum (C20),686
+2017,Australia,Anus and Anal Canal (C21),98
+2017,Australia,Liver and Intrahepatic Bile Ducts (C22),1917
+2017,Australia,Gallbladder (C23),171
+2017,Australia,Other and Unspecified Parts of Biliary Tract (C24),113
+2017,Australia,Pancreas (C25),2999
+2017,Australia,Other and Ill-defined Digestive Organs (C26),1188
+2018,Australia,Oesophagus (C15),1331
+2018,Australia,Stomach (C16),1140
+2018,Australia,Small Intestine (C17),132
+2018,Australia,Colon (C18),1514
+2018,Australia,Rectosigmoid Junction (C19),2064
+2018,Australia,Rectum (C20),714
+2018,Australia,Anus and Anal Canal (C21),84
+2018,Australia,Liver and Intrahepatic Bile Ducts (C22),2105
+2018,Australia,Gallbladder (C23),183
+2018,Australia,Other and Unspecified Parts of Biliary Tract (C24),107
+2018,Australia,Pancreas (C25),3078
+2018,Australia,Other and Ill-defined Digestive Organs (C26),1199
+2019,Australia,Oesophagus (C15),1402
+2019,Australia,Stomach (C16),1185
+2019,Australia,Small Intestine (C17),151
+2019,Australia,Colon (C18),1541
+2019,Australia,Rectosigmoid Junction (C19),2035
+2019,Australia,Rectum (C20),651
+2019,Australia,Anus and Anal Canal (C21),112
+2019,Australia,Liver and Intrahepatic Bile Ducts (C22),2204
+2019,Australia,Gallbladder (C23),166
+2019,Australia,Other and Unspecified Parts of Biliary Tract (C24),131
+2019,Australia,Pancreas (C25),3207
+2019,Australia,Other and Ill-defined Digestive Organs (C26),1213
+2020,Australia,Oesophagus (C15),1341
+2020,Australia,Stomach (C16),1182
+2020,Australia,Small Intestine (C17),143
+2020,Australia,Colon (C18),1462
+2020,Australia,Rectosigmoid Junction (C19),2123
+2020,Australia,Rectum (C20),692
+2020,Australia,Anus and Anal Canal (C21),129
+2020,Australia,Liver and Intrahepatic Bile Ducts (C22),2192
+2020,Australia,Gallbladder (C23),176
+2020,Australia,Other and Unspecified Parts of Biliary Tract (C24),124
+2020,Australia,Pancreas (C25),3244
+2020,Australia,Other and Ill-defined Digestive Organs (C26),1235
+2011,New South Wales,Oesophagus (C15),423
+2011,New South Wales,Stomach (C16),384
+2011,New South Wales,Small Intestine (C17),26
+2011,New South Wales,Colon (C18),650
+2011,New South Wales,Rectosigmoid Junction (C19),435
+2011,New South Wales,Rectum (C20),254
+2011,New South Wales,Anus and Anal Canal (C21),30
+2011,New South Wales,Liver and Intrahepatic Bile Ducts (C22),513
+2011,New South Wales,Gallbladder (C23),52
+2011,New South Wales,Other and Unspecified Parts of Biliary Tract (C24),34
+2011,New South Wales,Pancreas (C25),836
+2011,New South Wales,Other and Ill-defined Digestive Organs (C26),453
+2012,New South Wales,Oesophagus (C15),412
+2012,New South Wales,Stomach (C16),370
+2012,New South Wales,Small Intestine (C17),33
+2012,New South Wales,Colon (C18),593
+2012,New South Wales,Rectosigmoid Junction (C19),460
+2012,New South Wales,Rectum (C20),225
+2012,New South Wales,Anus and Anal Canal (C21),19
+2012,New South Wales,Liver and Intrahepatic Bile Ducts (C22),520
+2012,New South Wales,Gallbladder (C23),50
+2012,New South Wales,Other and Unspecified Parts of Biliary Tract (C24),22
+2012,New South Wales,Pancreas (C25),856
+2012,New South Wales,Other and Ill-defined Digestive Organs (C26),448
+2013,New South Wales,Oesophagus (C15),429
+2013,New South Wales,Stomach (C16),404
+2013,New South Wales,Small Intestine (C17),34
+2013,New South Wales,Colon (C18),586
+2013,New South Wales,Rectosigmoid Junction (C19),460
+2013,New South Wales,Rectum (C20),242
+2013,New South Wales,Anus and Anal Canal (C21),23
+2013,New South Wales,Liver and Intrahepatic Bile Ducts (C22),551
+2013,New South Wales,Gallbladder (C23),64
+2013,New South Wales,Other and Unspecified Parts of Biliary Tract (C24),27
+2013,New South Wales,Pancreas (C25),906
+2013,New South Wales,Other and Ill-defined Digestive Organs (C26),466
+2014,New South Wales,Oesophagus (C15),409
+2014,New South Wales,Stomach (C16),352
+2014,New South Wales,Small Intestine (C17),27
+2014,New South Wales,Colon (C18),613
+2014,New South Wales,Rectosigmoid Junction (C19),462
+2014,New South Wales,Rectum (C20),231
+2014,New South Wales,Anus and Anal Canal (C21),31
+2014,New South Wales,Liver and Intrahepatic Bile Ducts (C22),643
+2014,New South Wales,Gallbladder (C23),44
+2014,New South Wales,Other and Unspecified Parts of Biliary Tract (C24),29
+2014,New South Wales,Pancreas (C25),889
+2014,New South Wales,Other and Ill-defined Digestive Organs (C26),472
+2015,New South Wales,Oesophagus (C15),486
+2015,New South Wales,Stomach (C16),366
+2015,New South Wales,Small Intestine (C17),32
+2015,New South Wales,Colon (C18),578
+2015,New South Wales,Rectosigmoid Junction (C19),564
+2015,New South Wales,Rectum (C20),221
+2015,New South Wales,Anus and Anal Canal (C21),25
+2015,New South Wales,Liver and Intrahepatic Bile Ducts (C22),646
+2015,New South Wales,Gallbladder (C23),68
+2015,New South Wales,Other and Unspecified Parts of Biliary Tract (C24),32
+2015,New South Wales,Pancreas (C25),942
+2015,New South Wales,Other and Ill-defined Digestive Organs (C26),437
+2016,New South Wales,Oesophagus (C15),421
+2016,New South Wales,Stomach (C16),348
+2016,New South Wales,Small Intestine (C17),41
+2016,New South Wales,Colon (C18),580
+2016,New South Wales,Rectosigmoid Junction (C19),581
+2016,New South Wales,Rectum (C20),213
+2016,New South Wales,Anus and Anal Canal (C21),24
+2016,New South Wales,Liver and Intrahepatic Bile Ducts (C22),640
+2016,New South Wales,Gallbladder (C23),59
+2016,New South Wales,Other and Unspecified Parts of Biliary Tract (C24),32
+2016,New South Wales,Pancreas (C25),963
+2016,New South Wales,Other and Ill-defined Digestive Organs (C26),452
+2017,New South Wales,Oesophagus (C15),399
+2017,New South Wales,Stomach (C16),363
+2017,New South Wales,Small Intestine (C17),39
+2017,New South Wales,Colon (C18),522
+2017,New South Wales,Rectosigmoid Junction (C19),556
+2017,New South Wales,Rectum (C20),210
+2017,New South Wales,Anus and Anal Canal (C21),24
+2017,New South Wales,Liver and Intrahepatic Bile Ducts (C22),645
+2017,New South Wales,Gallbladder (C23),43
+2017,New South Wales,Other and Unspecified Parts of Biliary Tract (C24),27
+2017,New South Wales,Pancreas (C25),960
+2017,New South Wales,Other and Ill-defined Digestive Organs (C26),431
+2018,New South Wales,Oesophagus (C15),437
+2018,New South Wales,Stomach (C16),395
+2018,New South Wales,Small Intestine (C17),40
+2018,New South Wales,Colon (C18),482
+2018,New South Wales,Rectosigmoid Junction (C19),710
+2018,New South Wales,Rectum (C20),219
+2018,New South Wales,Anus and Anal Canal (C21),29
+2018,New South Wales,Liver and Intrahepatic Bile Ducts (C22),713
+2018,New South Wales,Gallbladder (C23),66
+2018,New South Wales,Other and Unspecified Parts of Biliary Tract (C24),33
+2018,New South Wales,Pancreas (C25),1009
+2018,New South Wales,Other and Ill-defined Digestive Organs (C26),429
+2019,New South Wales,Oesophagus (C15),475
+2019,New South Wales,Stomach (C16),375
+2019,New South Wales,Small Intestine (C17),45
+2019,New South Wales,Colon (C18),488
+2019,New South Wales,Rectosigmoid Junction (C19),709
+2019,New South Wales,Rectum (C20),197
+2019,New South Wales,Anus and Anal Canal (C21),34
+2019,New South Wales,Liver and Intrahepatic Bile Ducts (C22),829
+2019,New South Wales,Gallbladder (C23),32
+2019,New South Wales,Other and Unspecified Parts of Biliary Tract (C24),61
+2019,New South Wales,Pancreas (C25),1097
+2019,New South Wales,Other and Ill-defined Digestive Organs (C26),440
+2020,New South Wales,Oesophagus (C15),432
+2020,New South Wales,Stomach (C16),356
+2020,New South Wales,Small Intestine (C17),36
+2020,New South Wales,Colon (C18),470
+2020,New South Wales,Rectosigmoid Junction (C19),724
+2020,New South Wales,Rectum (C20),220
+2020,New South Wales,Anus and Anal Canal (C21),39
+2020,New South Wales,Liver and Intrahepatic Bile Ducts (C22),748
+2020,New South Wales,Gallbladder (C23),53
+2020,New South Wales,Other and Unspecified Parts of Biliary Tract (C24),41
+2020,New South Wales,Pancreas (C25),1017
+2020,New South Wales,Other and Ill-defined Digestive Organs (C26),409
+2011,Victoria,Oesophagus (C15),298
+2011,Victoria,Stomach (C16),306
+2011,Victoria,Small Intestine (C17),17
+2011,Victoria,Colon (C18),538
+2011,Victoria,Rectosigmoid Junction (C19),333
+2011,Victoria,Rectum (C20),190
+2011,Victoria,Anus and Anal Canal (C21),24
+2011,Victoria,Liver and Intrahepatic Bile Ducts (C22),379
+2011,Victoria,Gallbladder (C23),41
+2011,Victoria,Other and Unspecified Parts of Biliary Tract (C24),25
+2011,Victoria,Pancreas (C25),654
+2011,Victoria,Other and Ill-defined Digestive Organs (C26),311
+2012,Victoria,Oesophagus (C15),271
+2012,Victoria,Stomach (C16),308
+2012,Victoria,Small Intestine (C17),29
+2012,Victoria,Colon (C18),490
+2012,Victoria,Rectosigmoid Junction (C19),367
+2012,Victoria,Rectum (C20),193
+2012,Victoria,Anus and Anal Canal (C21),24
+2012,Victoria,Liver and Intrahepatic Bile Ducts (C22),388
+2012,Victoria,Gallbladder (C23),60
+2012,Victoria,Other and Unspecified Parts of Biliary Tract (C24),21
+2012,Victoria,Pancreas (C25),633
+2012,Victoria,Other and Ill-defined Digestive Organs (C26),302
+2013,Victoria,Oesophagus (C15),301
+2013,Victoria,Stomach (C16),353
+2013,Victoria,Small Intestine (C17),29
+2013,Victoria,Colon (C18),504
+2013,Victoria,Rectosigmoid Junction (C19),423
+2013,Victoria,Rectum (C20),203
+2013,Victoria,Anus and Anal Canal (C21),18
+2013,Victoria,Liver and Intrahepatic Bile Ducts (C22),364
+2013,Victoria,Gallbladder (C23),42
+2013,Victoria,Other and Unspecified Parts of Biliary Tract (C24),35
+2013,Victoria,Pancreas (C25),646
+2013,Victoria,Other and Ill-defined Digestive Organs (C26),285
+2014,Victoria,Oesophagus (C15),284
+2014,Victoria,Stomach (C16),331
+2014,Victoria,Small Intestine (C17),31
+2014,Victoria,Colon (C18),400
+2014,Victoria,Rectosigmoid Junction (C19),462
+2014,Victoria,Rectum (C20),193
+2014,Victoria,Anus and Anal Canal (C21),22
+2014,Victoria,Liver and Intrahepatic Bile Ducts (C22),392
+2014,Victoria,Gallbladder (C23),43
+2014,Victoria,Other and Unspecified Parts of Biliary Tract (C24),22
+2014,Victoria,Pancreas (C25),649
+2014,Victoria,Other and Ill-defined Digestive Organs (C26),292
+2015,Victoria,Oesophagus (C15),298
+2015,Victoria,Stomach (C16),336
+2015,Victoria,Small Intestine (C17),27
+2015,Victoria,Colon (C18),450
+2015,Victoria,Rectosigmoid Junction (C19),520
+2015,Victoria,Rectum (C20),171
+2015,Victoria,Anus and Anal Canal (C21),32
+2015,Victoria,Liver and Intrahepatic Bile Ducts (C22),434
+2015,Victoria,Gallbladder (C23),41
+2015,Victoria,Other and Unspecified Parts of Biliary Tract (C24),33
+2015,Victoria,Pancreas (C25),711
+2015,Victoria,Other and Ill-defined Digestive Organs (C26),324
+2016,Victoria,Oesophagus (C15),314
+2016,Victoria,Stomach (C16),318
+2016,Victoria,Small Intestine (C17),28
+2016,Victoria,Colon (C18),402
+2016,Victoria,Rectosigmoid Junction (C19),566
+2016,Victoria,Rectum (C20),177
+2016,Victoria,Anus and Anal Canal (C21),15
+2016,Victoria,Liver and Intrahepatic Bile Ducts (C22),447
+2016,Victoria,Gallbladder (C23),34
+2016,Victoria,Other and Unspecified Parts of Biliary Tract (C24),30
+2016,Victoria,Pancreas (C25),784
+2016,Victoria,Other and Ill-defined Digestive Organs (C26),274
+2017,Victoria,Oesophagus (C15),299
+2017,Victoria,Stomach (C16),343
+2017,Victoria,Small Intestine (C17),40
+2017,Victoria,Colon (C18),377
+2017,Victoria,Rectosigmoid Junction (C19),533
+2017,Victoria,Rectum (C20),184
+2017,Victoria,Anus and Anal Canal (C21),22
+2017,Victoria,Liver and Intrahepatic Bile Ducts (C22),446
+2017,Victoria,Gallbladder (C23),49
+2017,Victoria,Other and Unspecified Parts of Biliary Tract (C24),28
+2017,Victoria,Pancreas (C25),776
+2017,Victoria,Other and Ill-defined Digestive Organs (C26),288
+2018,Victoria,Oesophagus (C15),328
+2018,Victoria,Stomach (C16),317
+2018,Victoria,Small Intestine (C17),32
+2018,Victoria,Colon (C18),372
+2018,Victoria,Rectosigmoid Junction (C19),483
+2018,Victoria,Rectum (C20),195
+2018,Victoria,Anus and Anal Canal (C21),23
+2018,Victoria,Liver and Intrahepatic Bile Ducts (C22),516
+2018,Victoria,Gallbladder (C23),45
+2018,Victoria,Other and Unspecified Parts of Biliary Tract (C24),26
+2018,Victoria,Pancreas (C25),776
+2018,Victoria,Other and Ill-defined Digestive Organs (C26),277
+2019,Victoria,Oesophagus (C15),355
+2019,Victoria,Stomach (C16),358
+2019,Victoria,Small Intestine (C17),37
+2019,Victoria,Colon (C18),370
+2019,Victoria,Rectosigmoid Junction (C19),522
+2019,Victoria,Rectum (C20),181
+2019,Victoria,Anus and Anal Canal (C21),29
+2019,Victoria,Liver and Intrahepatic Bile Ducts (C22),564
+2019,Victoria,Gallbladder (C23),51
+2019,Victoria,Other and Unspecified Parts of Biliary Tract (C24),23
+2019,Victoria,Pancreas (C25),822
+2019,Victoria,Other and Ill-defined Digestive Organs (C26),312
+2020,Victoria,Oesophagus (C15),348
+2020,Victoria,Stomach (C16),371
+2020,Victoria,Small Intestine (C17),37
+2020,Victoria,Colon (C18),390
+2020,Victoria,Rectosigmoid Junction (C19),539
+2020,Victoria,Rectum (C20),179
+2020,Victoria,Anus and Anal Canal (C21),24
+2020,Victoria,Liver and Intrahepatic Bile Ducts (C22),540
+2020,Victoria,Gallbladder (C23),48
+2020,Victoria,Other and Unspecified Parts of Biliary Tract (C24),36
+2020,Victoria,Pancreas (C25),811
+2020,Victoria,Other and Ill-defined Digestive Organs (C26),335
+2011,Queensland,Oesophagus (C15),224
+2011,Queensland,Stomach (C16),194
+2011,Queensland,Small Intestine (C17),23
+2011,Queensland,Colon (C18),351
+2011,Queensland,Rectosigmoid Junction (C19),280
+2011,Queensland,Rectum (C20),100
+2011,Queensland,Anus and Anal Canal (C21),19
+2011,Queensland,Liver and Intrahepatic Bile Ducts (C22),203
+2011,Queensland,Gallbladder (C23),27
+2011,Queensland,Other and Unspecified Parts of Biliary Tract (C24),20
+2011,Queensland,Pancreas (C25),437
+2011,Queensland,Other and Ill-defined Digestive Organs (C26),233
+2012,Queensland,Oesophagus (C15),240
+2012,Queensland,Stomach (C16),201
+2012,Queensland,Small Intestine (C17),30
+2012,Queensland,Colon (C18),366
+2012,Queensland,Rectosigmoid Junction (C19),297
+2012,Queensland,Rectum (C20),119
+2012,Queensland,Anus and Anal Canal (C21),12
+2012,Queensland,Liver and Intrahepatic Bile Ducts (C22),261
+2012,Queensland,Gallbladder (C23),28
+2012,Queensland,Other and Unspecified Parts of Biliary Tract (C24),17
+2012,Queensland,Pancreas (C25),462
+2012,Queensland,Other and Ill-defined Digestive Organs (C26),218
+2013,Queensland,Oesophagus (C15),239
+2013,Queensland,Stomach (C16),190
+2013,Queensland,Small Intestine (C17),26
+2013,Queensland,Colon (C18),372
+2013,Queensland,Rectosigmoid Junction (C19),378
+2013,Queensland,Rectum (C20),101
+2013,Queensland,Anus and Anal Canal (C21),17
+2013,Queensland,Liver and Intrahepatic Bile Ducts (C22),303
+2013,Queensland,Gallbladder (C23),22
+2013,Queensland,Other and Unspecified Parts of Biliary Tract (C24),10
+2013,Queensland,Pancreas (C25),434
+2013,Queensland,Other and Ill-defined Digestive Organs (C26),191
+2014,Queensland,Oesophagus (C15),237
+2014,Queensland,Stomach (C16),214
+2014,Queensland,Small Intestine (C17),22
+2014,Queensland,Colon (C18),335
+2014,Queensland,Rectosigmoid Junction (C19),382
+2014,Queensland,Rectum (C20),112
+2014,Queensland,Anus and Anal Canal (C21),26
+2014,Queensland,Liver and Intrahepatic Bile Ducts (C22),331
+2014,Queensland,Gallbladder (C23),34
+2014,Queensland,Other and Unspecified Parts of Biliary Tract (C24),16
+2014,Queensland,Pancreas (C25),429
+2014,Queensland,Other and Ill-defined Digestive Organs (C26),200
+2015,Queensland,Oesophagus (C15),237
+2015,Queensland,Stomach (C16),188
+2015,Queensland,Small Intestine (C17),22
+2015,Queensland,Colon (C18),293
+2015,Queensland,Rectosigmoid Junction (C19),462
+2015,Queensland,Rectum (C20),127
+2015,Queensland,Anus and Anal Canal (C21),13
+2015,Queensland,Liver and Intrahepatic Bile Ducts (C22),320
+2015,Queensland,Gallbladder (C23),31
+2015,Queensland,Other and Unspecified Parts of Biliary Tract (C24),21
+2015,Queensland,Pancreas (C25),485
+2015,Queensland,Other and Ill-defined Digestive Organs (C26),239
+2016,Queensland,Oesophagus (C15),269
+2016,Queensland,Stomach (C16),186
+2016,Queensland,Small Intestine (C17),23
+2016,Queensland,Colon (C18),339
+2016,Queensland,Rectosigmoid Junction (C19),431
+2016,Queensland,Rectum (C20),116
+2016,Queensland,Anus and Anal Canal (C21),30
+2016,Queensland,Liver and Intrahepatic Bile Ducts (C22),354
+2016,Queensland,Gallbladder (C23),31
+2016,Queensland,Other and Unspecified Parts of Biliary Tract (C24),25
+2016,Queensland,Pancreas (C25),541
+2016,Queensland,Other and Ill-defined Digestive Organs (C26),204
+2017,Queensland,Oesophagus (C15),269
+2017,Queensland,Stomach (C16),228
+2017,Queensland,Small Intestine (C17),25
+2017,Queensland,Colon (C18),328
+2017,Queensland,Rectosigmoid Junction (C19),493
+2017,Queensland,Rectum (C20),130
+2017,Queensland,Anus and Anal Canal (C21),27
+2017,Queensland,Liver and Intrahepatic Bile Ducts (C22),398
+2017,Queensland,Gallbladder (C23),38
+2017,Queensland,Other and Unspecified Parts of Biliary Tract (C24),29
+2017,Queensland,Pancreas (C25),551
+2017,Queensland,Other and Ill-defined Digestive Organs (C26),211
+2018,Queensland,Oesophagus (C15),266
+2018,Queensland,Stomach (C16),187
+2018,Queensland,Small Intestine (C17),30
+2018,Queensland,Colon (C18),256
+2018,Queensland,Rectosigmoid Junction (C19),503
+2018,Queensland,Rectum (C20),127
+2018,Queensland,Anus and Anal Canal (C21),16
+2018,Queensland,Liver and Intrahepatic Bile Ducts (C22),424
+2018,Queensland,Gallbladder (C23),21
+2018,Queensland,Other and Unspecified Parts of Biliary Tract (C24),18
+2018,Queensland,Pancreas (C25),593
+2018,Queensland,Other and Ill-defined Digestive Organs (C26),218
+2019,Queensland,Oesophagus (C15),245
+2019,Queensland,Stomach (C16),196
+2019,Queensland,Small Intestine (C17),35
+2019,Queensland,Colon (C18),324
+2019,Queensland,Rectosigmoid Junction (C19),467
+2019,Queensland,Rectum (C20),123
+2019,Queensland,Anus and Anal Canal (C21),14
+2019,Queensland,Liver and Intrahepatic Bile Ducts (C22),399
+2019,Queensland,Gallbladder (C23),38
+2019,Queensland,Other and Unspecified Parts of Biliary Tract (C24),21
+2019,Queensland,Pancreas (C25),572
+2019,Queensland,Other and Ill-defined Digestive Organs (C26),215
+2020,Queensland,Oesophagus (C15),246
+2020,Queensland,Stomach (C16),204
+2020,Queensland,Small Intestine (C17),26
+2020,Queensland,Colon (C18),277
+2020,Queensland,Rectosigmoid Junction (C19),485
+2020,Queensland,Rectum (C20),140
+2020,Queensland,Anus and Anal Canal (C21),34
+2020,Queensland,Liver and Intrahepatic Bile Ducts (C22),422
+2020,Queensland,Gallbladder (C23),32
+2020,Queensland,Other and Unspecified Parts of Biliary Tract (C24),24
+2020,Queensland,Pancreas (C25),638
+2020,Queensland,Other and Ill-defined Digestive Organs (C26),245
+2011,South Australia,Oesophagus (C15),102
+2011,South Australia,Stomach (C16),92
+2011,South Australia,Small Intestine (C17),7
+2011,South Australia,Colon (C18),208
+2011,South Australia,Rectosigmoid Junction (C19),73
+2011,South Australia,Rectum (C20),69
+2011,South Australia,Anus and Anal Canal (C21),2
+2011,South Australia,Liver and Intrahepatic Bile Ducts (C22),121
+2011,South Australia,Gallbladder (C23),14
+2011,South Australia,Other and Unspecified Parts of Biliary Tract (C24),9
+2011,South Australia,Pancreas (C25),195
+2011,South Australia,Other and Ill-defined Digestive Organs (C26),96
+2012,South Australia,Oesophagus (C15),92
+2012,South Australia,Stomach (C16),97
+2012,South Australia,Small Intestine (C17),16
+2012,South Australia,Colon (C18),185
+2012,South Australia,Rectosigmoid Junction (C19),109
+2012,South Australia,Rectum (C20),68
+2012,South Australia,Anus and Anal Canal (C21),3
+2012,South Australia,Liver and Intrahepatic Bile Ducts (C22),121
+2012,South Australia,Gallbladder (C23),18
+2012,South Australia,Other and Unspecified Parts of Biliary Tract (C24),9
+2012,South Australia,Pancreas (C25),212
+2012,South Australia,Other and Ill-defined Digestive Organs (C26),111
+2013,South Australia,Oesophagus (C15),101
+2013,South Australia,Stomach (C16),100
+2013,South Australia,Small Intestine (C17),5
+2013,South Australia,Colon (C18),175
+2013,South Australia,Rectosigmoid Junction (C19),106
+2013,South Australia,Rectum (C20),61
+2013,South Australia,Anus and Anal Canal (C21),5
+2013,South Australia,Liver and Intrahepatic Bile Ducts (C22),133
+2013,South Australia,Gallbladder (C23),21
+2013,South Australia,Other and Unspecified Parts of Biliary Tract (C24),5
+2013,South Australia,Pancreas (C25),216
+2013,South Australia,Other and Ill-defined Digestive Organs (C26),115
+2014,South Australia,Oesophagus (C15),87
+2014,South Australia,Stomach (C16),101
+2014,South Australia,Small Intestine (C17),8
+2014,South Australia,Colon (C18),147
+2014,South Australia,Rectosigmoid Junction (C19),136
+2014,South Australia,Rectum (C20),58
+2014,South Australia,Anus and Anal Canal (C21),8
+2014,South Australia,Liver and Intrahepatic Bile Ducts (C22),118
+2014,South Australia,Gallbladder (C23),18
+2014,South Australia,Other and Unspecified Parts of Biliary Tract (C24),2
+2014,South Australia,Pancreas (C25),228
+2014,South Australia,Other and Ill-defined Digestive Organs (C26),96
+2015,South Australia,Oesophagus (C15),122
+2015,South Australia,Stomach (C16),101
+2015,South Australia,Small Intestine (C17),8
+2015,South Australia,Colon (C18),163
+2015,South Australia,Rectosigmoid Junction (C19),146
+2015,South Australia,Rectum (C20),67
+2015,South Australia,Anus and Anal Canal (C21),6
+2015,South Australia,Liver and Intrahepatic Bile Ducts (C22),163
+2015,South Australia,Gallbladder (C23),19
+2015,South Australia,Other and Unspecified Parts of Biliary Tract (C24),9
+2015,South Australia,Pancreas (C25),256
+2015,South Australia,Other and Ill-defined Digestive Organs (C26),99
+2016,South Australia,Oesophagus (C15),114
+2016,South Australia,Stomach (C16),89
+2016,South Australia,Small Intestine (C17),12
+2016,South Australia,Colon (C18),154
+2016,South Australia,Rectosigmoid Junction (C19),141
+2016,South Australia,Rectum (C20),56
+2016,South Australia,Anus and Anal Canal (C21),5
+2016,South Australia,Liver and Intrahepatic Bile Ducts (C22),140
+2016,South Australia,Gallbladder (C23),17
+2016,South Australia,Other and Unspecified Parts of Biliary Tract (C24),7
+2016,South Australia,Pancreas (C25),230
+2016,South Australia,Other and Ill-defined Digestive Organs (C26),91
+2017,South Australia,Oesophagus (C15),103
+2017,South Australia,Stomach (C16),88
+2017,South Australia,Small Intestine (C17),7
+2017,South Australia,Colon (C18),122
+2017,South Australia,Rectosigmoid Junction (C19),166
+2017,South Australia,Rectum (C20),48
+2017,South Australia,Anus and Anal Canal (C21),6
+2017,South Australia,Liver and Intrahepatic Bile Ducts (C22),148
+2017,South Australia,Gallbladder (C23),20
+2017,South Australia,Other and Unspecified Parts of Biliary Tract (C24),14
+2017,South Australia,Pancreas (C25),243
+2017,South Australia,Other and Ill-defined Digestive Organs (C26),92
+2018,South Australia,Oesophagus (C15),107
+2018,South Australia,Stomach (C16),93
+2018,South Australia,Small Intestine (C17),6
+2018,South Australia,Colon (C18),145
+2018,South Australia,Rectosigmoid Junction (C19),179
+2018,South Australia,Rectum (C20),66
+2018,South Australia,Anus and Anal Canal (C21),5
+2018,South Australia,Liver and Intrahepatic Bile Ducts (C22),147
+2018,South Australia,Gallbladder (C23),26
+2018,South Australia,Other and Unspecified Parts of Biliary Tract (C24),12
+2018,South Australia,Pancreas (C25),239
+2018,South Australia,Other and Ill-defined Digestive Organs (C26),109
+2019,South Australia,Oesophagus (C15),129
+2019,South Australia,Stomach (C16),105
+2019,South Australia,Small Intestine (C17),14
+2019,South Australia,Colon (C18),129
+2019,South Australia,Rectosigmoid Junction (C19),146
+2019,South Australia,Rectum (C20),57
+2019,South Australia,Anus and Anal Canal (C21),16
+2019,South Australia,Liver and Intrahepatic Bile Ducts (C22),143
+2019,South Australia,Gallbladder (C23),21
+2019,South Australia,Other and Unspecified Parts of Biliary Tract (C24),10
+2019,South Australia,Pancreas (C25),288
+2019,South Australia,Other and Ill-defined Digestive Organs (C26),86
+2020,South Australia,Oesophagus (C15),119
+2020,South Australia,Stomach (C16),95
+2020,South Australia,Small Intestine (C17),15
+2020,South Australia,Colon (C18),120
+2020,South Australia,Rectosigmoid Junction (C19),149
+2020,South Australia,Rectum (C20),56
+2020,South Australia,Anus and Anal Canal (C21),16
+2020,South Australia,Liver and Intrahepatic Bile Ducts (C22),175
+2020,South Australia,Gallbladder (C23),19
+2020,South Australia,Other and Unspecified Parts of Biliary Tract (C24),13
+2020,South Australia,Pancreas (C25),287
+2020,South Australia,Other and Ill-defined Digestive Organs (C26),110
+2011,Western Australia,Oesophagus (C15),105
+2011,Western Australia,Stomach (C16),110
+2011,Western Australia,Small Intestine (C17),16
+2011,Western Australia,Colon (C18),217
+2011,Western Australia,Rectosigmoid Junction (C19),50
+2011,Western Australia,Rectum (C20),56
+2011,Western Australia,Anus and Anal Canal (C21),6
+2011,Western Australia,Liver and Intrahepatic Bile Ducts (C22),134
+2011,Western Australia,Gallbladder (C23),8
+2011,Western Australia,Other and Unspecified Parts of Biliary Tract (C24),5
+2011,Western Australia,Pancreas (C25),194
+2011,Western Australia,Other and Ill-defined Digestive Organs (C26),106
+2012,Western Australia,Oesophagus (C15),114
+2012,Western Australia,Stomach (C16),113
+2012,Western Australia,Small Intestine (C17),14
+2012,Western Australia,Colon (C18),214
+2012,Western Australia,Rectosigmoid Junction (C19),51
+2012,Western Australia,Rectum (C20),53
+2012,Western Australia,Anus and Anal Canal (C21),9
+2012,Western Australia,Liver and Intrahepatic Bile Ducts (C22),136
+2012,Western Australia,Gallbladder (C23),12
+2012,Western Australia,Other and Unspecified Parts of Biliary Tract (C24),4
+2012,Western Australia,Pancreas (C25),245
+2012,Western Australia,Other and Ill-defined Digestive Organs (C26),114
+2013,Western Australia,Oesophagus (C15),109
+2013,Western Australia,Stomach (C16),125
+2013,Western Australia,Small Intestine (C17),9
+2013,Western Australia,Colon (C18),204
+2013,Western Australia,Rectosigmoid Junction (C19),88
+2013,Western Australia,Rectum (C20),56
+2013,Western Australia,Anus and Anal Canal (C21),7
+2013,Western Australia,Liver and Intrahepatic Bile Ducts (C22),145
+2013,Western Australia,Gallbladder (C23),11
+2013,Western Australia,Other and Unspecified Parts of Biliary Tract (C24),7
+2013,Western Australia,Pancreas (C25),230
+2013,Western Australia,Other and Ill-defined Digestive Organs (C26),110
+2014,Western Australia,Oesophagus (C15),97
+2014,Western Australia,Stomach (C16),92
+2014,Western Australia,Small Intestine (C17),9
+2014,Western Australia,Colon (C18),192
+2014,Western Australia,Rectosigmoid Junction (C19),82
+2014,Western Australia,Rectum (C20),69
+2014,Western Australia,Anus and Anal Canal (C21),9
+2014,Western Australia,Liver and Intrahepatic Bile Ducts (C22),172
+2014,Western Australia,Gallbladder (C23),8
+2014,Western Australia,Other and Unspecified Parts of Biliary Tract (C24),7
+2014,Western Australia,Pancreas (C25),229
+2014,Western Australia,Other and Ill-defined Digestive Organs (C26),101
+2015,Western Australia,Oesophagus (C15),121
+2015,Western Australia,Stomach (C16),112
+2015,Western Australia,Small Intestine (C17),8
+2015,Western Australia,Colon (C18),192
+2015,Western Australia,Rectosigmoid Junction (C19),84
+2015,Western Australia,Rectum (C20),69
+2015,Western Australia,Anus and Anal Canal (C21),7
+2015,Western Australia,Liver and Intrahepatic Bile Ducts (C22),175
+2015,Western Australia,Gallbladder (C23),8
+2015,Western Australia,Other and Unspecified Parts of Biliary Tract (C24),13
+2015,Western Australia,Pancreas (C25),243
+2015,Western Australia,Other and Ill-defined Digestive Organs (C26),87
+2016,Western Australia,Oesophagus (C15),121
+2016,Western Australia,Stomach (C16),103
+2016,Western Australia,Small Intestine (C17),13
+2016,Western Australia,Colon (C18),170
+2016,Western Australia,Rectosigmoid Junction (C19),116
+2016,Western Australia,Rectum (C20),55
+2016,Western Australia,Anus and Anal Canal (C21),8
+2016,Western Australia,Liver and Intrahepatic Bile Ducts (C22),188
+2016,Western Australia,Gallbladder (C23),9
+2016,Western Australia,Other and Unspecified Parts of Biliary Tract (C24),13
+2016,Western Australia,Pancreas (C25),260
+2016,Western Australia,Other and Ill-defined Digestive Organs (C26),94
+2017,Western Australia,Oesophagus (C15),123
+2017,Western Australia,Stomach (C16),93
+2017,Western Australia,Small Intestine (C17),17
+2017,Western Australia,Colon (C18),161
+2017,Western Australia,Rectosigmoid Junction (C19),94
+2017,Western Australia,Rectum (C20),58
+2017,Western Australia,Anus and Anal Canal (C21),13
+2017,Western Australia,Liver and Intrahepatic Bile Ducts (C22),165
+2017,Western Australia,Gallbladder (C23),10
+2017,Western Australia,Other and Unspecified Parts of Biliary Tract (C24),14
+2017,Western Australia,Pancreas (C25),312
+2017,Western Australia,Other and Ill-defined Digestive Organs (C26),107
+2018,Western Australia,Oesophagus (C15),115
+2018,Western Australia,Stomach (C16),99
+2018,Western Australia,Small Intestine (C17),17
+2018,Western Australia,Colon (C18),174
+2018,Western Australia,Rectosigmoid Junction (C19),112
+2018,Western Australia,Rectum (C20),71
+2018,Western Australia,Anus and Anal Canal (C21),7
+2018,Western Australia,Liver and Intrahepatic Bile Ducts (C22),212
+2018,Western Australia,Gallbladder (C23),11
+2018,Western Australia,Other and Unspecified Parts of Biliary Tract (C24),11
+2018,Western Australia,Pancreas (C25),322
+2018,Western Australia,Other and Ill-defined Digestive Organs (C26),114
+2019,Western Australia,Oesophagus (C15),131
+2019,Western Australia,Stomach (C16),91
+2019,Western Australia,Small Intestine (C17),18
+2019,Western Australia,Colon (C18),148
+2019,Western Australia,Rectosigmoid Junction (C19),124
+2019,Western Australia,Rectum (C20),59
+2019,Western Australia,Anus and Anal Canal (C21),13
+2019,Western Australia,Liver and Intrahepatic Bile Ducts (C22),166
+2019,Western Australia,Gallbladder (C23),16
+2019,Western Australia,Other and Unspecified Parts of Biliary Tract (C24),10
+2019,Western Australia,Pancreas (C25),274
+2019,Western Australia,Other and Ill-defined Digestive Organs (C26),100
+2020,Western Australia,Oesophagus (C15),123
+2020,Western Australia,Stomach (C16),102
+2020,Western Australia,Small Intestine (C17),15
+2020,Western Australia,Colon (C18),132
+2020,Western Australia,Rectosigmoid Junction (C19),141
+2020,Western Australia,Rectum (C20),58
+2020,Western Australia,Anus and Anal Canal (C21),8
+2020,Western Australia,Liver and Intrahepatic Bile Ducts (C22),220
+2020,Western Australia,Gallbladder (C23),12
+2020,Western Australia,Other and Unspecified Parts of Biliary Tract (C24),5
+2020,Western Australia,Pancreas (C25),315
+2020,Western Australia,Other and Ill-defined Digestive Organs (C26),91
+2011,Tasmania,Oesophagus (C15),53
+2011,Tasmania,Stomach (C16),35
+2011,Tasmania,Small Intestine (C17),3
+2011,Tasmania,Colon (C18),79
+2011,Tasmania,Rectosigmoid Junction (C19),23
+2011,Tasmania,Rectum (C20),24
+2011,Tasmania,Anus and Anal Canal (C21),2
+2011,Tasmania,Liver and Intrahepatic Bile Ducts (C22),30
+2011,Tasmania,Gallbladder (C23),9
+2011,Tasmania,Other and Unspecified Parts of Biliary Tract (C24),1
+2011,Tasmania,Pancreas (C25),58
+2011,Tasmania,Other and Ill-defined Digestive Organs (C26),41
+2012,Tasmania,Oesophagus (C15),45
+2012,Tasmania,Stomach (C16),44
+2012,Tasmania,Small Intestine (C17),4
+2012,Tasmania,Colon (C18),64
+2012,Tasmania,Rectosigmoid Junction (C19),32
+2012,Tasmania,Rectum (C20),20
+2012,Tasmania,Anus and Anal Canal (C21),3
+2012,Tasmania,Liver and Intrahepatic Bile Ducts (C22),35
+2012,Tasmania,Gallbladder (C23),6
+2012,Tasmania,Other and Unspecified Parts of Biliary Tract (C24),4
+2012,Tasmania,Pancreas (C25),77
+2012,Tasmania,Other and Ill-defined Digestive Organs (C26),26
+2013,Tasmania,Oesophagus (C15),46
+2013,Tasmania,Stomach (C16),41
+2013,Tasmania,Small Intestine (C17),2
+2013,Tasmania,Colon (C18),61
+2013,Tasmania,Rectosigmoid Junction (C19),28
+2013,Tasmania,Rectum (C20),30
+2013,Tasmania,Anus and Anal Canal (C21),0
+2013,Tasmania,Liver and Intrahepatic Bile Ducts (C22),34
+2013,Tasmania,Gallbladder (C23),4
+2013,Tasmania,Other and Unspecified Parts of Biliary Tract (C24),3
+2013,Tasmania,Pancreas (C25),84
+2013,Tasmania,Other and Ill-defined Digestive Organs (C26),54
+2014,Tasmania,Oesophagus (C15),58
+2014,Tasmania,Stomach (C16),33
+2014,Tasmania,Small Intestine (C17),2
+2014,Tasmania,Colon (C18),57
+2014,Tasmania,Rectosigmoid Junction (C19),46
+2014,Tasmania,Rectum (C20),25
+2014,Tasmania,Anus and Anal Canal (C21),0
+2014,Tasmania,Liver and Intrahepatic Bile Ducts (C22),37
+2014,Tasmania,Gallbladder (C23),1
+2014,Tasmania,Other and Unspecified Parts of Biliary Tract (C24),5
+2014,Tasmania,Pancreas (C25),70
+2014,Tasmania,Other and Ill-defined Digestive Organs (C26),46
+2015,Tasmania,Oesophagus (C15),41
+2015,Tasmania,Stomach (C16),28
+2015,Tasmania,Small Intestine (C17),4
+2015,Tasmania,Colon (C18),62
+2015,Tasmania,Rectosigmoid Junction (C19),42
+2015,Tasmania,Rectum (C20),34
+2015,Tasmania,Anus and Anal Canal (C21),2
+2015,Tasmania,Liver and Intrahepatic Bile Ducts (C22),42
+2015,Tasmania,Gallbladder (C23),5
+2015,Tasmania,Other and Unspecified Parts of Biliary Tract (C24),1
+2015,Tasmania,Pancreas (C25),67
+2015,Tasmania,Other and Ill-defined Digestive Organs (C26),42
+2016,Tasmania,Oesophagus (C15),61
+2016,Tasmania,Stomach (C16),30
+2016,Tasmania,Small Intestine (C17),2
+2016,Tasmania,Colon (C18),82
+2016,Tasmania,Rectosigmoid Junction (C19),38
+2016,Tasmania,Rectum (C20),22
+2016,Tasmania,Anus and Anal Canal (C21),1
+2016,Tasmania,Liver and Intrahepatic Bile Ducts (C22),49
+2016,Tasmania,Gallbladder (C23),4
+2016,Tasmania,Other and Unspecified Parts of Biliary Tract (C24),4
+2016,Tasmania,Pancreas (C25),79
+2016,Tasmania,Other and Ill-defined Digestive Organs (C26),33
+2017,Tasmania,Oesophagus (C15),47
+2017,Tasmania,Stomach (C16),31
+2017,Tasmania,Small Intestine (C17),1
+2017,Tasmania,Colon (C18),66
+2017,Tasmania,Rectosigmoid Junction (C19),19
+2017,Tasmania,Rectum (C20),33
+2017,Tasmania,Anus and Anal Canal (C21),5
+2017,Tasmania,Liver and Intrahepatic Bile Ducts (C22),56
+2017,Tasmania,Gallbladder (C23),6
+2017,Tasmania,Other and Unspecified Parts of Biliary Tract (C24),2
+2017,Tasmania,Pancreas (C25),103
+2017,Tasmania,Other and Ill-defined Digestive Organs (C26),42
+2018,Tasmania,Oesophagus (C15),50
+2018,Tasmania,Stomach (C16),32
+2018,Tasmania,Small Intestine (C17),5
+2018,Tasmania,Colon (C18),59
+2018,Tasmania,Rectosigmoid Junction (C19),31
+2018,Tasmania,Rectum (C20),20
+2018,Tasmania,Anus and Anal Canal (C21),1
+2018,Tasmania,Liver and Intrahepatic Bile Ducts (C22),42
+2018,Tasmania,Gallbladder (C23),11
+2018,Tasmania,Other and Unspecified Parts of Biliary Tract (C24),2
+2018,Tasmania,Pancreas (C25),84
+2018,Tasmania,Other and Ill-defined Digestive Organs (C26),36
+2019,Tasmania,Oesophagus (C15),44
+2019,Tasmania,Stomach (C16),31
+2019,Tasmania,Small Intestine (C17),1
+2019,Tasmania,Colon (C18),61
+2019,Tasmania,Rectosigmoid Junction (C19),41
+2019,Tasmania,Rectum (C20),26
+2019,Tasmania,Anus and Anal Canal (C21),3
+2019,Tasmania,Liver and Intrahepatic Bile Ducts (C22),51
+2019,Tasmania,Gallbladder (C23),4
+2019,Tasmania,Other and Unspecified Parts of Biliary Tract (C24),2
+2019,Tasmania,Pancreas (C25),88
+2019,Tasmania,Other and Ill-defined Digestive Organs (C26),36
+2020,Tasmania,Oesophagus (C15),36
+2020,Tasmania,Stomach (C16),31
+2020,Tasmania,Small Intestine (C17),10
+2020,Tasmania,Colon (C18),46
+2020,Tasmania,Rectosigmoid Junction (C19),46
+2020,Tasmania,Rectum (C20),24
+2020,Tasmania,Anus and Anal Canal (C21),6
+2020,Tasmania,Liver and Intrahepatic Bile Ducts (C22),48
+2020,Tasmania,Gallbladder (C23),6
+2020,Tasmania,Other and Unspecified Parts of Biliary Tract (C24),3
+2020,Tasmania,Pancreas (C25),99
+2020,Tasmania,Other and Ill-defined Digestive Organs (C26),30
+2011,Northern Territory,Oesophagus (C15),7
+2011,Northern Territory,Stomach (C16),10
+2011,Northern Territory,Small Intestine (C17),3
+2011,Northern Territory,Colon (C18),11
+2011,Northern Territory,Rectosigmoid Junction (C19),7
+2011,Northern Territory,Rectum (C20),2
+2011,Northern Territory,Anus and Anal Canal (C21),2
+2011,Northern Territory,Liver and Intrahepatic Bile Ducts (C22),23
+2011,Northern Territory,Gallbladder (C23),0
+2011,Northern Territory,Other and Unspecified Parts of Biliary Tract (C24),0
+2011,Northern Territory,Pancreas (C25),17
+2011,Northern Territory,Other and Ill-defined Digestive Organs (C26),6
+2012,Northern Territory,Oesophagus (C15),9
+2012,Northern Territory,Stomach (C16),7
+2012,Northern Territory,Small Intestine (C17),4
+2012,Northern Territory,Colon (C18),13
+2012,Northern Territory,Rectosigmoid Junction (C19),5
+2012,Northern Territory,Rectum (C20),5
+2012,Northern Territory,Anus and Anal Canal (C21),3
+2012,Northern Territory,Liver and Intrahepatic Bile Ducts (C22),18
+2012,Northern Territory,Gallbladder (C23),1
+2012,Northern Territory,Other and Unspecified Parts of Biliary Tract (C24),0
+2012,Northern Territory,Pancreas (C25),6
+2012,Northern Territory,Other and Ill-defined Digestive Organs (C26),3
+2013,Northern Territory,Oesophagus (C15),9
+2013,Northern Territory,Stomach (C16),1
+2013,Northern Territory,Small Intestine (C17),2
+2013,Northern Territory,Colon (C18),9
+2013,Northern Territory,Rectosigmoid Junction (C19),8
+2013,Northern Territory,Rectum (C20),2
+2013,Northern Territory,Anus and Anal Canal (C21),2
+2013,Northern Territory,Liver and Intrahepatic Bile Ducts (C22),23
+2013,Northern Territory,Gallbladder (C23),0
+2013,Northern Territory,Other and Unspecified Parts of Biliary Tract (C24),3
+2013,Northern Territory,Pancreas (C25),17
+2013,Northern Territory,Other and Ill-defined Digestive Organs (C26),1
+2014,Northern Territory,Oesophagus (C15),13
+2014,Northern Territory,Stomach (C16),2
+2014,Northern Territory,Small Intestine (C17),0
+2014,Northern Territory,Colon (C18),8
+2014,Northern Territory,Rectosigmoid Junction (C19),11
+2014,Northern Territory,Rectum (C20),4
+2014,Northern Territory,Anus and Anal Canal (C21),3
+2014,Northern Territory,Liver and Intrahepatic Bile Ducts (C22),19
+2014,Northern Territory,Gallbladder (C23),1
+2014,Northern Territory,Other and Unspecified Parts of Biliary Tract (C24),0
+2014,Northern Territory,Pancreas (C25),13
+2014,Northern Territory,Other and Ill-defined Digestive Organs (C26),1
+2015,Northern Territory,Oesophagus (C15),6
+2015,Northern Territory,Stomach (C16),8
+2015,Northern Territory,Small Intestine (C17),4
+2015,Northern Territory,Colon (C18),6
+2015,Northern Territory,Rectosigmoid Junction (C19),14
+2015,Northern Territory,Rectum (C20),8
+2015,Northern Territory,Anus and Anal Canal (C21),0
+2015,Northern Territory,Liver and Intrahepatic Bile Ducts (C22),16
+2015,Northern Territory,Gallbladder (C23),3
+2015,Northern Territory,Other and Unspecified Parts of Biliary Tract (C24),0
+2015,Northern Territory,Pancreas (C25),13
+2015,Northern Territory,Other and Ill-defined Digestive Organs (C26),3
+2016,Northern Territory,Oesophagus (C15),16
+2016,Northern Territory,Stomach (C16),2
+2016,Northern Territory,Small Intestine (C17),0
+2016,Northern Territory,Colon (C18),8
+2016,Northern Territory,Rectosigmoid Junction (C19),17
+2016,Northern Territory,Rectum (C20),1
+2016,Northern Territory,Anus and Anal Canal (C21),1
+2016,Northern Territory,Liver and Intrahepatic Bile Ducts (C22),23
+2016,Northern Territory,Gallbladder (C23),4
+2016,Northern Territory,Other and Unspecified Parts of Biliary Tract (C24),4
+2016,Northern Territory,Pancreas (C25),19
+2016,Northern Territory,Other and Ill-defined Digestive Organs (C26),1
+2017,Northern Territory,Oesophagus (C15),2
+2017,Northern Territory,Stomach (C16),3
+2017,Northern Territory,Small Intestine (C17),1
+2017,Northern Territory,Colon (C18),8
+2017,Northern Territory,Rectosigmoid Junction (C19),18
+2017,Northern Territory,Rectum (C20),10
+2017,Northern Territory,Anus and Anal Canal (C21),0
+2017,Northern Territory,Liver and Intrahepatic Bile Ducts (C22),25
+2017,Northern Territory,Gallbladder (C23),1
+2017,Northern Territory,Other and Unspecified Parts of Biliary Tract (C24),0
+2017,Northern Territory,Pancreas (C25),19
+2017,Northern Territory,Other and Ill-defined Digestive Organs (C26),3
+2018,Northern Territory,Oesophagus (C15),10
+2018,Northern Territory,Stomach (C16),10
+2018,Northern Territory,Small Intestine (C17),3
+2018,Northern Territory,Colon (C18),9
+2018,Northern Territory,Rectosigmoid Junction (C19),16
+2018,Northern Territory,Rectum (C20),9
+2018,Northern Territory,Anus and Anal Canal (C21),0
+2018,Northern Territory,Liver and Intrahepatic Bile Ducts (C22),23
+2018,Northern Territory,Gallbladder (C23),4
+2018,Northern Territory,Other and Unspecified Parts of Biliary Tract (C24),2
+2018,Northern Territory,Pancreas (C25),22
+2018,Northern Territory,Other and Ill-defined Digestive Organs (C26),2
+2019,Northern Territory,Oesophagus (C15),9
+2019,Northern Territory,Stomach (C16),14
+2019,Northern Territory,Small Intestine (C17),0
+2019,Northern Territory,Colon (C18),4
+2019,Northern Territory,Rectosigmoid Junction (C19),13
+2019,Northern Territory,Rectum (C20),5
+2019,Northern Territory,Anus and Anal Canal (C21),3
+2019,Northern Territory,Liver and Intrahepatic Bile Ducts (C22),27
+2019,Northern Territory,Gallbladder (C23),4
+2019,Northern Territory,Other and Unspecified Parts of Biliary Tract (C24),2
+2019,Northern Territory,Pancreas (C25),18
+2019,Northern Territory,Other and Ill-defined Digestive Organs (C26),7
+2020,Northern Territory,Oesophagus (C15),14
+2020,Northern Territory,Stomach (C16),8
+2020,Northern Territory,Small Intestine (C17),4
+2020,Northern Territory,Colon (C18),4
+2020,Northern Territory,Rectosigmoid Junction (C19),14
+2020,Northern Territory,Rectum (C20),6
+2020,Northern Territory,Anus and Anal Canal (C21),2
+2020,Northern Territory,Liver and Intrahepatic Bile Ducts (C22),27
+2020,Northern Territory,Gallbladder (C23),3
+2020,Northern Territory,Other and Unspecified Parts of Biliary Tract (C24),0
+2020,Northern Territory,Pancreas (C25),28
+2020,Northern Territory,Other and Ill-defined Digestive Organs (C26),3
+2011,Australian Capital Territory,Oesophagus (C15),17
+2011,Australian Capital Territory,Stomach (C16),11
+2011,Australian Capital Territory,Small Intestine (C17),3
+2011,Australian Capital Territory,Colon (C18),23
+2011,Australian Capital Territory,Rectosigmoid Junction (C19),15
+2011,Australian Capital Territory,Rectum (C20),12
+2011,Australian Capital Territory,Anus and Anal Canal (C21),2
+2011,Australian Capital Territory,Liver and Intrahepatic Bile Ducts (C22),20
+2011,Australian Capital Territory,Gallbladder (C23),3
+2011,Australian Capital Territory,Other and Unspecified Parts of Biliary Tract (C24),1
+2011,Australian Capital Territory,Pancreas (C25),25
+2011,Australian Capital Territory,Other and Ill-defined Digestive Organs (C26),18
+2012,Australian Capital Territory,Oesophagus (C15),20
+2012,Australian Capital Territory,Stomach (C16),4
+2012,Australian Capital Territory,Small Intestine (C17),4
+2012,Australian Capital Territory,Colon (C18),40
+2012,Australian Capital Territory,Rectosigmoid Junction (C19),7
+2012,Australian Capital Territory,Rectum (C20),7
+2012,Australian Capital Territory,Anus and Anal Canal (C21),0
+2012,Australian Capital Territory,Liver and Intrahepatic Bile Ducts (C22),11
+2012,Australian Capital Territory,Gallbladder (C23),1
+2012,Australian Capital Territory,Other and Unspecified Parts of Biliary Tract (C24),4
+2012,Australian Capital Territory,Pancreas (C25),33
+2012,Australian Capital Territory,Other and Ill-defined Digestive Organs (C26),16
+2013,Australian Capital Territory,Oesophagus (C15),11
+2013,Australian Capital Territory,Stomach (C16),10
+2013,Australian Capital Territory,Small Intestine (C17),0
+2013,Australian Capital Territory,Colon (C18),35
+2013,Australian Capital Territory,Rectosigmoid Junction (C19),18
+2013,Australian Capital Territory,Rectum (C20),12
+2013,Australian Capital Territory,Anus and Anal Canal (C21),2
+2013,Australian Capital Territory,Liver and Intrahepatic Bile Ducts (C22),21
+2013,Australian Capital Territory,Gallbladder (C23),4
+2013,Australian Capital Territory,Other and Unspecified Parts of Biliary Tract (C24),3
+2013,Australian Capital Territory,Pancreas (C25),26
+2013,Australian Capital Territory,Other and Ill-defined Digestive Organs (C26),13
+2014,Australian Capital Territory,Oesophagus (C15),13
+2014,Australian Capital Territory,Stomach (C16),11
+2014,Australian Capital Territory,Small Intestine (C17),0
+2014,Australian Capital Territory,Colon (C18),22
+2014,Australian Capital Territory,Rectosigmoid Junction (C19),20
+2014,Australian Capital Territory,Rectum (C20),8
+2014,Australian Capital Territory,Anus and Anal Canal (C21),0
+2014,Australian Capital Territory,Liver and Intrahepatic Bile Ducts (C22),20
+2014,Australian Capital Territory,Gallbladder (C23),1
+2014,Australian Capital Territory,Other and Unspecified Parts of Biliary Tract (C24),2
+2014,Australian Capital Territory,Pancreas (C25),40
+2014,Australian Capital Territory,Other and Ill-defined Digestive Organs (C26),13
+2015,Australian Capital Territory,Oesophagus (C15),18
+2015,Australian Capital Territory,Stomach (C16),12
+2015,Australian Capital Territory,Small Intestine (C17),0
+2015,Australian Capital Territory,Colon (C18),36
+2015,Australian Capital Territory,Rectosigmoid Junction (C19),28
+2015,Australian Capital Territory,Rectum (C20),14
+2015,Australian Capital Territory,Anus and Anal Canal (C21),2
+2015,Australian Capital Territory,Liver and Intrahepatic Bile Ducts (C22),24
+2015,Australian Capital Territory,Gallbladder (C23),3
+2015,Australian Capital Territory,Other and Unspecified Parts of Biliary Tract (C24),1
+2015,Australian Capital Territory,Pancreas (C25),46
+2015,Australian Capital Territory,Other and Ill-defined Digestive Organs (C26),10
+2016,Australian Capital Territory,Oesophagus (C15),22
+2016,Australian Capital Territory,Stomach (C16),8
+2016,Australian Capital Territory,Small Intestine (C17),2
+2016,Australian Capital Territory,Colon (C18),19
+2016,Australian Capital Territory,Rectosigmoid Junction (C19),25
+2016,Australian Capital Territory,Rectum (C20),18
+2016,Australian Capital Territory,Anus and Anal Canal (C21),1
+2016,Australian Capital Territory,Liver and Intrahepatic Bile Ducts (C22),25
+2016,Australian Capital Territory,Gallbladder (C23),4
+2016,Australian Capital Territory,Other and Unspecified Parts of Biliary Tract (C24),4
+2016,Australian Capital Territory,Pancreas (C25),35
+2016,Australian Capital Territory,Other and Ill-defined Digestive Organs (C26),20
+2017,Australian Capital Territory,Oesophagus (C15),22
+2017,Australian Capital Territory,Stomach (C16),12
+2017,Australian Capital Territory,Small Intestine (C17),0
+2017,Australian Capital Territory,Colon (C18),22
+2017,Australian Capital Territory,Rectosigmoid Junction (C19),33
+2017,Australian Capital Territory,Rectum (C20),12
+2017,Australian Capital Territory,Anus and Anal Canal (C21),3
+2017,Australian Capital Territory,Liver and Intrahepatic Bile Ducts (C22),34
+2017,Australian Capital Territory,Gallbladder (C23),1
+2017,Australian Capital Territory,Other and Unspecified Parts of Biliary Tract (C24),0
+2017,Australian Capital Territory,Pancreas (C25),34
+2017,Australian Capital Territory,Other and Ill-defined Digestive Organs (C26),13
+2018,Australian Capital Territory,Oesophagus (C15),18
+2018,Australian Capital Territory,Stomach (C16),7
+2018,Australian Capital Territory,Small Intestine (C17),3
+2018,Australian Capital Territory,Colon (C18),17
+2018,Australian Capital Territory,Rectosigmoid Junction (C19),30
+2018,Australian Capital Territory,Rectum (C20),6
+2018,Australian Capital Territory,Anus and Anal Canal (C21),1
+2018,Australian Capital Territory,Liver and Intrahepatic Bile Ducts (C22),28
+2018,Australian Capital Territory,Gallbladder (C23),4
+2018,Australian Capital Territory,Other and Unspecified Parts of Biliary Tract (C24),2
+2018,Australian Capital Territory,Pancreas (C25),33
+2018,Australian Capital Territory,Other and Ill-defined Digestive Organs (C26),13
+2019,Australian Capital Territory,Oesophagus (C15),14
+2019,Australian Capital Territory,Stomach (C16),15
+2019,Australian Capital Territory,Small Intestine (C17),1
+2019,Australian Capital Territory,Colon (C18),19
+2019,Australian Capital Territory,Rectosigmoid Junction (C19),13
+2019,Australian Capital Territory,Rectum (C20),3
+2019,Australian Capital Territory,Anus and Anal Canal (C21),3
+2019,Australian Capital Territory,Liver and Intrahepatic Bile Ducts (C22),25
+2019,Australian Capital Territory,Gallbladder (C23),4
+2019,Australian Capital Territory,Other and Unspecified Parts of Biliary Tract (C24),2
+2019,Australian Capital Territory,Pancreas (C25),48
+2019,Australian Capital Territory,Other and Ill-defined Digestive Organs (C26),17
+2020,Australian Capital Territory,Oesophagus (C15),23
+2020,Australian Capital Territory,Stomach (C16),15
+2020,Australian Capital Territory,Small Intestine (C17),4
+2020,Australian Capital Territory,Colon (C18),23
+2020,Australian Capital Territory,Rectosigmoid Junction (C19),25
+2020,Australian Capital Territory,Rectum (C20),9
+2020,Australian Capital Territory,Anus and Anal Canal (C21),0
+2020,Australian Capital Territory,Liver and Intrahepatic Bile Ducts (C22),12
+2020,Australian Capital Territory,Gallbladder (C23),3
+2020,Australian Capital Territory,Other and Unspecified Parts of Biliary Tract (C24),3
+2020,Australian Capital Territory,Pancreas (C25),48
+2020,Australian Capital Territory,Other and Ill-defined Digestive Organs (C26),13

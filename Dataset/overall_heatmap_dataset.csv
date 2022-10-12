@@ -1,0 +1,91 @@
+Year,Type,Number of Deaths
+2011,Subarachnoid haemorrhage (I60),511
+2011,Intracerebral haemorrhage (I61),1294
+2011,Other nontraumatic intracranial haemorrhage (I62),639
+2011,Cerebral infarction (I63),1030
+2011,"Stroke, not specified as haemorrhage or infarction (I64)",5343
+2011,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2011,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2011,Other cerebrovascular diseases (I67),690
+2011,Sequelae of cerebrovascular disease (I69),1738
+2012,Subarachnoid haemorrhage (I60),479
+2012,Intracerebral haemorrhage (I61),1249
+2012,Other nontraumatic intracranial haemorrhage (I62),620
+2012,Cerebral infarction (I63),942
+2012,"Stroke, not specified as haemorrhage or infarction (I64)",5051
+2012,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2012,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2012,Other cerebrovascular diseases (I67),571
+2012,Sequelae of cerebrovascular disease (I69),1873
+2013,Subarachnoid haemorrhage (I60),478
+2013,Intracerebral haemorrhage (I61),1222
+2013,Other nontraumatic intracranial haemorrhage (I62),664
+2013,Cerebral infarction (I63),1073
+2013,"Stroke, not specified as haemorrhage or infarction (I64)",4656
+2013,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2013,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2013,Other cerebrovascular diseases (I67),516
+2013,Sequelae of cerebrovascular disease (I69),1934
+2014,Subarachnoid haemorrhage (I60),501
+2014,Intracerebral haemorrhage (I61),1219
+2014,Other nontraumatic intracranial haemorrhage (I62),739
+2014,Cerebral infarction (I63),1209
+2014,"Stroke, not specified as haemorrhage or infarction (I64)",4581
+2014,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2014,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2014,Other cerebrovascular diseases (I67),479
+2014,Sequelae of cerebrovascular disease (I69),2001
+2015,Subarachnoid haemorrhage (I60),439
+2015,Intracerebral haemorrhage (I61),1250
+2015,Other nontraumatic intracranial haemorrhage (I62),736
+2015,Cerebral infarction (I63),1218
+2015,"Stroke, not specified as haemorrhage or infarction (I64)",4736
+2015,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2015,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2015,Other cerebrovascular diseases (I67),516
+2015,Sequelae of cerebrovascular disease (I69),1972
+2016,Subarachnoid haemorrhage (I60),542
+2016,Intracerebral haemorrhage (I61),1247
+2016,Other nontraumatic intracranial haemorrhage (I62),746
+2016,Cerebral infarction (I63),1234
+2016,"Stroke, not specified as haemorrhage or infarction (I64)",4472
+2016,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2016,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2016,Other cerebrovascular diseases (I67),455
+2016,Sequelae of cerebrovascular disease (I69),1770
+2017,Subarachnoid haemorrhage (I60),530
+2017,Intracerebral haemorrhage (I61),1305
+2017,Other nontraumatic intracranial haemorrhage (I62),760
+2017,Cerebral infarction (I63),1256
+2017,"Stroke, not specified as haemorrhage or infarction (I64)",4297
+2017,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2017,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2017,Other cerebrovascular diseases (I67),416
+2017,Sequelae of cerebrovascular disease (I69),1626
+2018,Subarachnoid haemorrhage (I60),560
+2018,Intracerebral haemorrhage (I61),1350
+2018,Other nontraumatic intracranial haemorrhage (I62),946
+2018,Cerebral infarction (I63),1370
+2018,"Stroke, not specified as haemorrhage or infarction (I64)",4208
+2018,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2018,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2018,Other cerebrovascular diseases (I67),658
+2018,Sequelae of cerebrovascular disease (I69),891
+2019,Subarachnoid haemorrhage (I60),607
+2019,Intracerebral haemorrhage (I61),1298
+2019,Other nontraumatic intracranial haemorrhage (I62),969
+2019,Cerebral infarction (I63),1454
+2019,"Stroke, not specified as haemorrhage or infarction (I64)",4144
+2019,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2019,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2019,Other cerebrovascular diseases (I67),623
+2019,Sequelae of cerebrovascular disease (I69),796
+2020,Subarachnoid haemorrhage (I60),575
+2020,Intracerebral haemorrhage (I61),1257
+2020,Other nontraumatic intracranial haemorrhage (I62),959
+2020,Cerebral infarction (I63),1394
+2020,"Stroke, not specified as haemorrhage or infarction (I64)",3967
+2020,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2020,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2020,Other cerebrovascular diseases (I67),619
+2020,Sequelae of cerebrovascular disease (I69),699

@@ -1,0 +1,721 @@
+Year,States,Type,Number of Deaths
+2011,New South Wales,Subarachnoid haemorrhage (I60),172
+2011,New South Wales,Intracerebral haemorrhage (I61),475
+2011,New South Wales,Other nontraumatic intracranial haemorrhage (I62),262
+2011,New South Wales,Cerebral infarction (I63),450
+2011,New South Wales,"Stroke, not specified as haemorrhage or infarction (I64)",1911
+2011,New South Wales,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2011,New South Wales,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2011,New South Wales,Other cerebrovascular diseases (I67),243
+2011,New South Wales,Sequelae of cerebrovascular disease (I69),735
+2012,New South Wales,Subarachnoid haemorrhage (I60),139
+2012,New South Wales,Intracerebral haemorrhage (I61),423
+2012,New South Wales,Other nontraumatic intracranial haemorrhage (I62),262
+2012,New South Wales,Cerebral infarction (I63),362
+2012,New South Wales,"Stroke, not specified as haemorrhage or infarction (I64)",1780
+2012,New South Wales,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2012,New South Wales,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2012,New South Wales,Other cerebrovascular diseases (I67),212
+2012,New South Wales,Sequelae of cerebrovascular disease (I69),756
+2013,New South Wales,Subarachnoid haemorrhage (I60),158
+2013,New South Wales,Intracerebral haemorrhage (I61),460
+2013,New South Wales,Other nontraumatic intracranial haemorrhage (I62),288
+2013,New South Wales,Cerebral infarction (I63),411
+2013,New South Wales,"Stroke, not specified as haemorrhage or infarction (I64)",1636
+2013,New South Wales,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2013,New South Wales,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2013,New South Wales,Other cerebrovascular diseases (I67),195
+2013,New South Wales,Sequelae of cerebrovascular disease (I69),857
+2014,New South Wales,Subarachnoid haemorrhage (I60),146
+2014,New South Wales,Intracerebral haemorrhage (I61),415
+2014,New South Wales,Other nontraumatic intracranial haemorrhage (I62),309
+2014,New South Wales,Cerebral infarction (I63),421
+2014,New South Wales,"Stroke, not specified as haemorrhage or infarction (I64)",1593
+2014,New South Wales,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2014,New South Wales,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2014,New South Wales,Other cerebrovascular diseases (I67),174
+2014,New South Wales,Sequelae of cerebrovascular disease (I69),891
+2015,New South Wales,Subarachnoid haemorrhage (I60),138
+2015,New South Wales,Intracerebral haemorrhage (I61),430
+2015,New South Wales,Other nontraumatic intracranial haemorrhage (I62),279
+2015,New South Wales,Cerebral infarction (I63),397
+2015,New South Wales,"Stroke, not specified as haemorrhage or infarction (I64)",1654
+2015,New South Wales,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2015,New South Wales,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2015,New South Wales,Other cerebrovascular diseases (I67),215
+2015,New South Wales,Sequelae of cerebrovascular disease (I69),850
+2016,New South Wales,Subarachnoid haemorrhage (I60),176
+2016,New South Wales,Intracerebral haemorrhage (I61),420
+2016,New South Wales,Other nontraumatic intracranial haemorrhage (I62),311
+2016,New South Wales,Cerebral infarction (I63),441
+2016,New South Wales,"Stroke, not specified as haemorrhage or infarction (I64)",1548
+2016,New South Wales,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2016,New South Wales,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2016,New South Wales,Other cerebrovascular diseases (I67),196
+2016,New South Wales,Sequelae of cerebrovascular disease (I69),750
+2017,New South Wales,Subarachnoid haemorrhage (I60),171
+2017,New South Wales,Intracerebral haemorrhage (I61),458
+2017,New South Wales,Other nontraumatic intracranial haemorrhage (I62),300
+2017,New South Wales,Cerebral infarction (I63),434
+2017,New South Wales,"Stroke, not specified as haemorrhage or infarction (I64)",1451
+2017,New South Wales,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2017,New South Wales,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2017,New South Wales,Other cerebrovascular diseases (I67),161
+2017,New South Wales,Sequelae of cerebrovascular disease (I69),705
+2018,New South Wales,Subarachnoid haemorrhage (I60),191
+2018,New South Wales,Intracerebral haemorrhage (I61),478
+2018,New South Wales,Other nontraumatic intracranial haemorrhage (I62),401
+2018,New South Wales,Cerebral infarction (I63),485
+2018,New South Wales,"Stroke, not specified as haemorrhage or infarction (I64)",1434
+2018,New South Wales,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2018,New South Wales,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2018,New South Wales,Other cerebrovascular diseases (I67),281
+2018,New South Wales,Sequelae of cerebrovascular disease (I69),414
+2019,New South Wales,Subarachnoid haemorrhage (I60),194
+2019,New South Wales,Intracerebral haemorrhage (I61),437
+2019,New South Wales,Other nontraumatic intracranial haemorrhage (I62),405
+2019,New South Wales,Cerebral infarction (I63),520
+2019,New South Wales,"Stroke, not specified as haemorrhage or infarction (I64)",1452
+2019,New South Wales,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2019,New South Wales,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2019,New South Wales,Other cerebrovascular diseases (I67),240
+2019,New South Wales,Sequelae of cerebrovascular disease (I69),333
+2020,New South Wales,Subarachnoid haemorrhage (I60),172
+2020,New South Wales,Intracerebral haemorrhage (I61),427
+2020,New South Wales,Other nontraumatic intracranial haemorrhage (I62),393
+2020,New South Wales,Cerebral infarction (I63),545
+2020,New South Wales,"Stroke, not specified as haemorrhage or infarction (I64)",1209
+2020,New South Wales,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2020,New South Wales,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2020,New South Wales,Other cerebrovascular diseases (I67),254
+2020,New South Wales,Sequelae of cerebrovascular disease (I69),318
+2011,Victoria,Subarachnoid haemorrhage (I60),147
+2011,Victoria,Intracerebral haemorrhage (I61),323
+2011,Victoria,Other nontraumatic intracranial haemorrhage (I62),138
+2011,Victoria,Cerebral infarction (I63),242
+2011,Victoria,"Stroke, not specified as haemorrhage or infarction (I64)",1229
+2011,Victoria,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2011,Victoria,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2011,Victoria,Other cerebrovascular diseases (I67),123
+2011,Victoria,Sequelae of cerebrovascular disease (I69),425
+2012,Victoria,Subarachnoid haemorrhage (I60),123
+2012,Victoria,Intracerebral haemorrhage (I61),307
+2012,Victoria,Other nontraumatic intracranial haemorrhage (I62),137
+2012,Victoria,Cerebral infarction (I63),247
+2012,Victoria,"Stroke, not specified as haemorrhage or infarction (I64)",1131
+2012,Victoria,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2012,Victoria,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2012,Victoria,Other cerebrovascular diseases (I67),81
+2012,Victoria,Sequelae of cerebrovascular disease (I69),445
+2013,Victoria,Subarachnoid haemorrhage (I60),121
+2013,Victoria,Intracerebral haemorrhage (I61),287
+2013,Victoria,Other nontraumatic intracranial haemorrhage (I62),124
+2013,Victoria,Cerebral infarction (I63),305
+2013,Victoria,"Stroke, not specified as haemorrhage or infarction (I64)",1055
+2013,Victoria,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2013,Victoria,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2013,Victoria,Other cerebrovascular diseases (I67),110
+2013,Victoria,Sequelae of cerebrovascular disease (I69),418
+2014,Victoria,Subarachnoid haemorrhage (I60),156
+2014,Victoria,Intracerebral haemorrhage (I61),310
+2014,Victoria,Other nontraumatic intracranial haemorrhage (I62),167
+2014,Victoria,Cerebral infarction (I63),337
+2014,Victoria,"Stroke, not specified as haemorrhage or infarction (I64)",1091
+2014,Victoria,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2014,Victoria,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2014,Victoria,Other cerebrovascular diseases (I67),79
+2014,Victoria,Sequelae of cerebrovascular disease (I69),413
+2015,Victoria,Subarachnoid haemorrhage (I60),125
+2015,Victoria,Intracerebral haemorrhage (I61),304
+2015,Victoria,Other nontraumatic intracranial haemorrhage (I62),147
+2015,Victoria,Cerebral infarction (I63),360
+2015,Victoria,"Stroke, not specified as haemorrhage or infarction (I64)",1192
+2015,Victoria,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2015,Victoria,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2015,Victoria,Other cerebrovascular diseases (I67),102
+2015,Victoria,Sequelae of cerebrovascular disease (I69),444
+2016,Victoria,Subarachnoid haemorrhage (I60),124
+2016,Victoria,Intracerebral haemorrhage (I61),344
+2016,Victoria,Other nontraumatic intracranial haemorrhage (I62),160
+2016,Victoria,Cerebral infarction (I63),326
+2016,Victoria,"Stroke, not specified as haemorrhage or infarction (I64)",1104
+2016,Victoria,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2016,Victoria,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2016,Victoria,Other cerebrovascular diseases (I67),72
+2016,Victoria,Sequelae of cerebrovascular disease (I69),404
+2017,Victoria,Subarachnoid haemorrhage (I60),127
+2017,Victoria,Intracerebral haemorrhage (I61),334
+2017,Victoria,Other nontraumatic intracranial haemorrhage (I62),151
+2017,Victoria,Cerebral infarction (I63),351
+2017,Victoria,"Stroke, not specified as haemorrhage or infarction (I64)",1065
+2017,Victoria,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2017,Victoria,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2017,Victoria,Other cerebrovascular diseases (I67),87
+2017,Victoria,Sequelae of cerebrovascular disease (I69),334
+2018,Victoria,Subarachnoid haemorrhage (I60),139
+2018,Victoria,Intracerebral haemorrhage (I61),356
+2018,Victoria,Other nontraumatic intracranial haemorrhage (I62),209
+2018,Victoria,Cerebral infarction (I63),359
+2018,Victoria,"Stroke, not specified as haemorrhage or infarction (I64)",997
+2018,Victoria,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2018,Victoria,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2018,Victoria,Other cerebrovascular diseases (I67),139
+2018,Victoria,Sequelae of cerebrovascular disease (I69),195
+2019,Victoria,Subarachnoid haemorrhage (I60),168
+2019,Victoria,Intracerebral haemorrhage (I61),341
+2019,Victoria,Other nontraumatic intracranial haemorrhage (I62),205
+2019,Victoria,Cerebral infarction (I63),372
+2019,Victoria,"Stroke, not specified as haemorrhage or infarction (I64)",947
+2019,Victoria,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2019,Victoria,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2019,Victoria,Other cerebrovascular diseases (I67),136
+2019,Victoria,Sequelae of cerebrovascular disease (I69),238
+2020,Victoria,Subarachnoid haemorrhage (I60),162
+2020,Victoria,Intracerebral haemorrhage (I61),319
+2020,Victoria,Other nontraumatic intracranial haemorrhage (I62),217
+2020,Victoria,Cerebral infarction (I63),311
+2020,Victoria,"Stroke, not specified as haemorrhage or infarction (I64)",1007
+2020,Victoria,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2020,Victoria,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2020,Victoria,Other cerebrovascular diseases (I67),131
+2020,Victoria,Sequelae of cerebrovascular disease (I69),197
+2011,Queensland,Subarachnoid haemorrhage (I60),100
+2011,Queensland,Intracerebral haemorrhage (I61),231
+2011,Queensland,Other nontraumatic intracranial haemorrhage (I62),113
+2011,Queensland,Cerebral infarction (I63),155
+2011,Queensland,"Stroke, not specified as haemorrhage or infarction (I64)",1056
+2011,Queensland,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2011,Queensland,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2011,Queensland,Other cerebrovascular diseases (I67),184
+2011,Queensland,Sequelae of cerebrovascular disease (I69),277
+2012,Queensland,Subarachnoid haemorrhage (I60),118
+2012,Queensland,Intracerebral haemorrhage (I61),249
+2012,Queensland,Other nontraumatic intracranial haemorrhage (I62),127
+2012,Queensland,Cerebral infarction (I63),177
+2012,Queensland,"Stroke, not specified as haemorrhage or infarction (I64)",1050
+2012,Queensland,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2012,Queensland,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2012,Queensland,Other cerebrovascular diseases (I67),141
+2012,Queensland,Sequelae of cerebrovascular disease (I69),318
+2013,Queensland,Subarachnoid haemorrhage (I60),78
+2013,Queensland,Intracerebral haemorrhage (I61),237
+2013,Queensland,Other nontraumatic intracranial haemorrhage (I62),121
+2013,Queensland,Cerebral infarction (I63),158
+2013,Queensland,"Stroke, not specified as haemorrhage or infarction (I64)",910
+2013,Queensland,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2013,Queensland,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2013,Queensland,Other cerebrovascular diseases (I67),128
+2013,Queensland,Sequelae of cerebrovascular disease (I69),373
+2014,Queensland,Subarachnoid haemorrhage (I60),85
+2014,Queensland,Intracerebral haemorrhage (I61),235
+2014,Queensland,Other nontraumatic intracranial haemorrhage (I62),129
+2014,Queensland,Cerebral infarction (I63),214
+2014,Queensland,"Stroke, not specified as haemorrhage or infarction (I64)",901
+2014,Queensland,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2014,Queensland,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2014,Queensland,Other cerebrovascular diseases (I67),131
+2014,Queensland,Sequelae of cerebrovascular disease (I69),346
+2015,Queensland,Subarachnoid haemorrhage (I60),74
+2015,Queensland,Intracerebral haemorrhage (I61),234
+2015,Queensland,Other nontraumatic intracranial haemorrhage (I62),149
+2015,Queensland,Cerebral infarction (I63),236
+2015,Queensland,"Stroke, not specified as haemorrhage or infarction (I64)",871
+2015,Queensland,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2015,Queensland,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2015,Queensland,Other cerebrovascular diseases (I67),125
+2015,Queensland,Sequelae of cerebrovascular disease (I69),347
+2016,Queensland,Subarachnoid haemorrhage (I60),118
+2016,Queensland,Intracerebral haemorrhage (I61),243
+2016,Queensland,Other nontraumatic intracranial haemorrhage (I62),149
+2016,Queensland,Cerebral infarction (I63),236
+2016,Queensland,"Stroke, not specified as haemorrhage or infarction (I64)",876
+2016,Queensland,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2016,Queensland,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2016,Queensland,Other cerebrovascular diseases (I67),106
+2016,Queensland,Sequelae of cerebrovascular disease (I69),338
+2017,Queensland,Subarachnoid haemorrhage (I60),116
+2017,Queensland,Intracerebral haemorrhage (I61),242
+2017,Queensland,Other nontraumatic intracranial haemorrhage (I62),171
+2017,Queensland,Cerebral infarction (I63),230
+2017,Queensland,"Stroke, not specified as haemorrhage or infarction (I64)",892
+2017,Queensland,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2017,Queensland,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2017,Queensland,Other cerebrovascular diseases (I67),96
+2017,Queensland,Sequelae of cerebrovascular disease (I69),306
+2018,Queensland,Subarachnoid haemorrhage (I60),100
+2018,Queensland,Intracerebral haemorrhage (I61),237
+2018,Queensland,Other nontraumatic intracranial haemorrhage (I62),170
+2018,Queensland,Cerebral infarction (I63),233
+2018,Queensland,"Stroke, not specified as haemorrhage or infarction (I64)",890
+2018,Queensland,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2018,Queensland,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2018,Queensland,Other cerebrovascular diseases (I67),143
+2018,Queensland,Sequelae of cerebrovascular disease (I69),133
+2019,Queensland,Subarachnoid haemorrhage (I60),115
+2019,Queensland,Intracerebral haemorrhage (I61),258
+2019,Queensland,Other nontraumatic intracranial haemorrhage (I62),208
+2019,Queensland,Cerebral infarction (I63),277
+2019,Queensland,"Stroke, not specified as haemorrhage or infarction (I64)",849
+2019,Queensland,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2019,Queensland,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2019,Queensland,Other cerebrovascular diseases (I67),134
+2019,Queensland,Sequelae of cerebrovascular disease (I69),132
+2020,Queensland,Subarachnoid haemorrhage (I60),119
+2020,Queensland,Intracerebral haemorrhage (I61),227
+2020,Queensland,Other nontraumatic intracranial haemorrhage (I62),176
+2020,Queensland,Cerebral infarction (I63),249
+2020,Queensland,"Stroke, not specified as haemorrhage or infarction (I64)",849
+2020,Queensland,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2020,Queensland,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2020,Queensland,Other cerebrovascular diseases (I67),120
+2020,Queensland,Sequelae of cerebrovascular disease (I69),109
+2011,South Australia,Subarachnoid haemorrhage (I60),30
+2011,South Australia,Intracerebral haemorrhage (I61),100
+2011,South Australia,Other nontraumatic intracranial haemorrhage (I62),49
+2011,South Australia,Cerebral infarction (I63),73
+2011,South Australia,"Stroke, not specified as haemorrhage or infarction (I64)",529
+2011,South Australia,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2011,South Australia,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2011,South Australia,Other cerebrovascular diseases (I67),69
+2011,South Australia,Sequelae of cerebrovascular disease (I69),154
+2012,South Australia,Subarachnoid haemorrhage (I60),38
+2012,South Australia,Intracerebral haemorrhage (I61),104
+2012,South Australia,Other nontraumatic intracranial haemorrhage (I62),41
+2012,South Australia,Cerebral infarction (I63),60
+2012,South Australia,"Stroke, not specified as haemorrhage or infarction (I64)",456
+2012,South Australia,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2012,South Australia,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2012,South Australia,Other cerebrovascular diseases (I67),70
+2012,South Australia,Sequelae of cerebrovascular disease (I69),168
+2013,South Australia,Subarachnoid haemorrhage (I60),31
+2013,South Australia,Intracerebral haemorrhage (I61),100
+2013,South Australia,Other nontraumatic intracranial haemorrhage (I62),51
+2013,South Australia,Cerebral infarction (I63),81
+2013,South Australia,"Stroke, not specified as haemorrhage or infarction (I64)",436
+2013,South Australia,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2013,South Australia,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2013,South Australia,Other cerebrovascular diseases (I67),35
+2013,South Australia,Sequelae of cerebrovascular disease (I69),146
+2014,South Australia,Subarachnoid haemorrhage (I60),47
+2014,South Australia,Intracerebral haemorrhage (I61),93
+2014,South Australia,Other nontraumatic intracranial haemorrhage (I62),64
+2014,South Australia,Cerebral infarction (I63),90
+2014,South Australia,"Stroke, not specified as haemorrhage or infarction (I64)",440
+2014,South Australia,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2014,South Australia,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2014,South Australia,Other cerebrovascular diseases (I67),39
+2014,South Australia,Sequelae of cerebrovascular disease (I69),158
+2015,South Australia,Subarachnoid haemorrhage (I60),40
+2015,South Australia,Intracerebral haemorrhage (I61),81
+2015,South Australia,Other nontraumatic intracranial haemorrhage (I62),50
+2015,South Australia,Cerebral infarction (I63),83
+2015,South Australia,"Stroke, not specified as haemorrhage or infarction (I64)",441
+2015,South Australia,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2015,South Australia,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2015,South Australia,Other cerebrovascular diseases (I67),34
+2015,South Australia,Sequelae of cerebrovascular disease (I69),170
+2016,South Australia,Subarachnoid haemorrhage (I60),47
+2016,South Australia,Intracerebral haemorrhage (I61),79
+2016,South Australia,Other nontraumatic intracranial haemorrhage (I62),45
+2016,South Australia,Cerebral infarction (I63),91
+2016,South Australia,"Stroke, not specified as haemorrhage or infarction (I64)",382
+2016,South Australia,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2016,South Australia,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2016,South Australia,Other cerebrovascular diseases (I67),45
+2016,South Australia,Sequelae of cerebrovascular disease (I69),130
+2017,South Australia,Subarachnoid haemorrhage (I60),38
+2017,South Australia,Intracerebral haemorrhage (I61),96
+2017,South Australia,Other nontraumatic intracranial haemorrhage (I62),39
+2017,South Australia,Cerebral infarction (I63),89
+2017,South Australia,"Stroke, not specified as haemorrhage or infarction (I64)",389
+2017,South Australia,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2017,South Australia,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2017,South Australia,Other cerebrovascular diseases (I67),37
+2017,South Australia,Sequelae of cerebrovascular disease (I69),132
+2018,South Australia,Subarachnoid haemorrhage (I60),58
+2018,South Australia,Intracerebral haemorrhage (I61),103
+2018,South Australia,Other nontraumatic intracranial haemorrhage (I62),62
+2018,South Australia,Cerebral infarction (I63),118
+2018,South Australia,"Stroke, not specified as haemorrhage or infarction (I64)",349
+2018,South Australia,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2018,South Australia,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2018,South Australia,Other cerebrovascular diseases (I67),42
+2018,South Australia,Sequelae of cerebrovascular disease (I69),57
+2019,South Australia,Subarachnoid haemorrhage (I60),42
+2019,South Australia,Intracerebral haemorrhage (I61),103
+2019,South Australia,Other nontraumatic intracranial haemorrhage (I62),53
+2019,South Australia,Cerebral infarction (I63),133
+2019,South Australia,"Stroke, not specified as haemorrhage or infarction (I64)",367
+2019,South Australia,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2019,South Australia,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2019,South Australia,Other cerebrovascular diseases (I67),56
+2019,South Australia,Sequelae of cerebrovascular disease (I69),54
+2020,South Australia,Subarachnoid haemorrhage (I60),40
+2020,South Australia,Intracerebral haemorrhage (I61),102
+2020,South Australia,Other nontraumatic intracranial haemorrhage (I62),40
+2020,South Australia,Cerebral infarction (I63),109
+2020,South Australia,"Stroke, not specified as haemorrhage or infarction (I64)",359
+2020,South Australia,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2020,South Australia,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2020,South Australia,Other cerebrovascular diseases (I67),57
+2020,South Australia,Sequelae of cerebrovascular disease (I69),39
+2011,Western Australia,Subarachnoid haemorrhage (I60),41
+2011,Western Australia,Intracerebral haemorrhage (I61),117
+2011,Western Australia,Other nontraumatic intracranial haemorrhage (I62),57
+2011,Western Australia,Cerebral infarction (I63),75
+2011,Western Australia,"Stroke, not specified as haemorrhage or infarction (I64)",388
+2011,Western Australia,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2011,Western Australia,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2011,Western Australia,Other cerebrovascular diseases (I67),59
+2011,Western Australia,Sequelae of cerebrovascular disease (I69),78
+2012,Western Australia,Subarachnoid haemorrhage (I60),33
+2012,Western Australia,Intracerebral haemorrhage (I61),117
+2012,Western Australia,Other nontraumatic intracranial haemorrhage (I62),34
+2012,Western Australia,Cerebral infarction (I63),62
+2012,Western Australia,"Stroke, not specified as haemorrhage or infarction (I64)",399
+2012,Western Australia,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2012,Western Australia,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2012,Western Australia,Other cerebrovascular diseases (I67),40
+2012,Western Australia,Sequelae of cerebrovascular disease (I69),122
+2013,Western Australia,Subarachnoid haemorrhage (I60),54
+2013,Western Australia,Intracerebral haemorrhage (I61),76
+2013,Western Australia,Other nontraumatic intracranial haemorrhage (I62),59
+2013,Western Australia,Cerebral infarction (I63),84
+2013,Western Australia,"Stroke, not specified as haemorrhage or infarction (I64)",382
+2013,Western Australia,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2013,Western Australia,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2013,Western Australia,Other cerebrovascular diseases (I67),40
+2013,Western Australia,Sequelae of cerebrovascular disease (I69),90
+2014,Western Australia,Subarachnoid haemorrhage (I60),49
+2014,Western Australia,Intracerebral haemorrhage (I61),117
+2014,Western Australia,Other nontraumatic intracranial haemorrhage (I62),49
+2014,Western Australia,Cerebral infarction (I63),96
+2014,Western Australia,"Stroke, not specified as haemorrhage or infarction (I64)",351
+2014,Western Australia,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2014,Western Australia,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2014,Western Australia,Other cerebrovascular diseases (I67),39
+2014,Western Australia,Sequelae of cerebrovascular disease (I69),126
+2015,Western Australia,Subarachnoid haemorrhage (I60),44
+2015,Western Australia,Intracerebral haemorrhage (I61),127
+2015,Western Australia,Other nontraumatic intracranial haemorrhage (I62),89
+2015,Western Australia,Cerebral infarction (I63),96
+2015,Western Australia,"Stroke, not specified as haemorrhage or infarction (I64)",333
+2015,Western Australia,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2015,Western Australia,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2015,Western Australia,Other cerebrovascular diseases (I67),26
+2015,Western Australia,Sequelae of cerebrovascular disease (I69),96
+2016,Western Australia,Subarachnoid haemorrhage (I60),49
+2016,Western Australia,Intracerebral haemorrhage (I61),114
+2016,Western Australia,Other nontraumatic intracranial haemorrhage (I62),58
+2016,Western Australia,Cerebral infarction (I63),80
+2016,Western Australia,"Stroke, not specified as haemorrhage or infarction (I64)",341
+2016,Western Australia,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2016,Western Australia,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2016,Western Australia,Other cerebrovascular diseases (I67),29
+2016,Western Australia,Sequelae of cerebrovascular disease (I69),98
+2017,Western Australia,Subarachnoid haemorrhage (I60),51
+2017,Western Australia,Intracerebral haemorrhage (I61),120
+2017,Western Australia,Other nontraumatic intracranial haemorrhage (I62),73
+2017,Western Australia,Cerebral infarction (I63),94
+2017,Western Australia,"Stroke, not specified as haemorrhage or infarction (I64)",293
+2017,Western Australia,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2017,Western Australia,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2017,Western Australia,Other cerebrovascular diseases (I67),23
+2017,Western Australia,Sequelae of cerebrovascular disease (I69),96
+2018,Western Australia,Subarachnoid haemorrhage (I60),50
+2018,Western Australia,Intracerebral haemorrhage (I61),119
+2018,Western Australia,Other nontraumatic intracranial haemorrhage (I62),70
+2018,Western Australia,Cerebral infarction (I63),109
+2018,Western Australia,"Stroke, not specified as haemorrhage or infarction (I64)",317
+2018,Western Australia,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2018,Western Australia,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2018,Western Australia,Other cerebrovascular diseases (I67),38
+2018,Western Australia,Sequelae of cerebrovascular disease (I69),54
+2019,Western Australia,Subarachnoid haemorrhage (I60),54
+2019,Western Australia,Intracerebral haemorrhage (I61),93
+2019,Western Australia,Other nontraumatic intracranial haemorrhage (I62),73
+2019,Western Australia,Cerebral infarction (I63),92
+2019,Western Australia,"Stroke, not specified as haemorrhage or infarction (I64)",318
+2019,Western Australia,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2019,Western Australia,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2019,Western Australia,Other cerebrovascular diseases (I67),42
+2019,Western Australia,Sequelae of cerebrovascular disease (I69),19
+2020,Western Australia,Subarachnoid haemorrhage (I60),58
+2020,Western Australia,Intracerebral haemorrhage (I61),129
+2020,Western Australia,Other nontraumatic intracranial haemorrhage (I62),94
+2020,Western Australia,Cerebral infarction (I63),105
+2020,Western Australia,"Stroke, not specified as haemorrhage or infarction (I64)",352
+2020,Western Australia,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2020,Western Australia,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2020,Western Australia,Other cerebrovascular diseases (I67),36
+2020,Western Australia,Sequelae of cerebrovascular disease (I69),6
+2011,Tasmania,Subarachnoid haemorrhage (I60),14
+2011,Tasmania,Intracerebral haemorrhage (I61),31
+2011,Tasmania,Other nontraumatic intracranial haemorrhage (I62),15
+2011,Tasmania,Cerebral infarction (I63),26
+2011,Tasmania,"Stroke, not specified as haemorrhage or infarction (I64)",168
+2011,Tasmania,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2011,Tasmania,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2011,Tasmania,Other cerebrovascular diseases (I67),9
+2011,Tasmania,Sequelae of cerebrovascular disease (I69),35
+2012,Tasmania,Subarachnoid haemorrhage (I60),20
+2012,Tasmania,Intracerebral haemorrhage (I61),27
+2012,Tasmania,Other nontraumatic intracranial haemorrhage (I62),6
+2012,Tasmania,Cerebral infarction (I63),26
+2012,Tasmania,"Stroke, not specified as haemorrhage or infarction (I64)",170
+2012,Tasmania,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2012,Tasmania,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2012,Tasmania,Other cerebrovascular diseases (I67),16
+2012,Tasmania,Sequelae of cerebrovascular disease (I69),39
+2013,Tasmania,Subarachnoid haemorrhage (I60),21
+2013,Tasmania,Intracerebral haemorrhage (I61),41
+2013,Tasmania,Other nontraumatic intracranial haemorrhage (I62),8
+2013,Tasmania,Cerebral infarction (I63),26
+2013,Tasmania,"Stroke, not specified as haemorrhage or infarction (I64)",167
+2013,Tasmania,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2013,Tasmania,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2013,Tasmania,Other cerebrovascular diseases (I67),6
+2013,Tasmania,Sequelae of cerebrovascular disease (I69),35
+2014,Tasmania,Subarachnoid haemorrhage (I60),12
+2014,Tasmania,Intracerebral haemorrhage (I61),27
+2014,Tasmania,Other nontraumatic intracranial haemorrhage (I62),10
+2014,Tasmania,Cerebral infarction (I63),33
+2014,Tasmania,"Stroke, not specified as haemorrhage or infarction (I64)",136
+2014,Tasmania,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2014,Tasmania,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2014,Tasmania,Other cerebrovascular diseases (I67),9
+2014,Tasmania,Sequelae of cerebrovascular disease (I69),35
+2015,Tasmania,Subarachnoid haemorrhage (I60),13
+2015,Tasmania,Intracerebral haemorrhage (I61),44
+2015,Tasmania,Other nontraumatic intracranial haemorrhage (I62),8
+2015,Tasmania,Cerebral infarction (I63),38
+2015,Tasmania,"Stroke, not specified as haemorrhage or infarction (I64)",176
+2015,Tasmania,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2015,Tasmania,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2015,Tasmania,Other cerebrovascular diseases (I67),9
+2015,Tasmania,Sequelae of cerebrovascular disease (I69),31
+2016,Tasmania,Subarachnoid haemorrhage (I60),17
+2016,Tasmania,Intracerebral haemorrhage (I61),29
+2016,Tasmania,Other nontraumatic intracranial haemorrhage (I62),16
+2016,Tasmania,Cerebral infarction (I63),43
+2016,Tasmania,"Stroke, not specified as haemorrhage or infarction (I64)",147
+2016,Tasmania,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2016,Tasmania,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2016,Tasmania,Other cerebrovascular diseases (I67),3
+2016,Tasmania,Sequelae of cerebrovascular disease (I69),28
+2017,Tasmania,Subarachnoid haemorrhage (I60),19
+2017,Tasmania,Intracerebral haemorrhage (I61),31
+2017,Tasmania,Other nontraumatic intracranial haemorrhage (I62),15
+2017,Tasmania,Cerebral infarction (I63),38
+2017,Tasmania,"Stroke, not specified as haemorrhage or infarction (I64)",129
+2017,Tasmania,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2017,Tasmania,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2017,Tasmania,Other cerebrovascular diseases (I67),4
+2017,Tasmania,Sequelae of cerebrovascular disease (I69),25
+2018,Tasmania,Subarachnoid haemorrhage (I60),16
+2018,Tasmania,Intracerebral haemorrhage (I61),32
+2018,Tasmania,Other nontraumatic intracranial haemorrhage (I62),17
+2018,Tasmania,Cerebral infarction (I63),39
+2018,Tasmania,"Stroke, not specified as haemorrhage or infarction (I64)",142
+2018,Tasmania,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2018,Tasmania,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2018,Tasmania,Other cerebrovascular diseases (I67),5
+2018,Tasmania,Sequelae of cerebrovascular disease (I69),19
+2019,Tasmania,Subarachnoid haemorrhage (I60),21
+2019,Tasmania,Intracerebral haemorrhage (I61),45
+2019,Tasmania,Other nontraumatic intracranial haemorrhage (I62),11
+2019,Tasmania,Cerebral infarction (I63),38
+2019,Tasmania,"Stroke, not specified as haemorrhage or infarction (I64)",134
+2019,Tasmania,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2019,Tasmania,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2019,Tasmania,Other cerebrovascular diseases (I67),5
+2019,Tasmania,Sequelae of cerebrovascular disease (I69),9
+2020,Tasmania,Subarachnoid haemorrhage (I60),15
+2020,Tasmania,Intracerebral haemorrhage (I61),32
+2020,Tasmania,Other nontraumatic intracranial haemorrhage (I62),19
+2020,Tasmania,Cerebral infarction (I63),53
+2020,Tasmania,"Stroke, not specified as haemorrhage or infarction (I64)",108
+2020,Tasmania,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2020,Tasmania,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2020,Tasmania,Other cerebrovascular diseases (I67),6
+2020,Tasmania,Sequelae of cerebrovascular disease (I69),22
+2011,Northern Territory,Subarachnoid haemorrhage (I60),0
+2011,Northern Territory,Intracerebral haemorrhage (I61),6
+2011,Northern Territory,Other nontraumatic intracranial haemorrhage (I62),0
+2011,Northern Territory,Cerebral infarction (I63),1
+2011,Northern Territory,"Stroke, not specified as haemorrhage or infarction (I64)",9
+2011,Northern Territory,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2011,Northern Territory,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2011,Northern Territory,Other cerebrovascular diseases (I67),0
+2011,Northern Territory,Sequelae of cerebrovascular disease (I69),2
+2012,Northern Territory,Subarachnoid haemorrhage (I60),3
+2012,Northern Territory,Intracerebral haemorrhage (I61),6
+2012,Northern Territory,Other nontraumatic intracranial haemorrhage (I62),2
+2012,Northern Territory,Cerebral infarction (I63),1
+2012,Northern Territory,"Stroke, not specified as haemorrhage or infarction (I64)",9
+2012,Northern Territory,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2012,Northern Territory,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2012,Northern Territory,Other cerebrovascular diseases (I67),2
+2012,Northern Territory,Sequelae of cerebrovascular disease (I69),1
+2013,Northern Territory,Subarachnoid haemorrhage (I60),7
+2013,Northern Territory,Intracerebral haemorrhage (I61),10
+2013,Northern Territory,Other nontraumatic intracranial haemorrhage (I62),5
+2013,Northern Territory,Cerebral infarction (I63),4
+2013,Northern Territory,"Stroke, not specified as haemorrhage or infarction (I64)",10
+2013,Northern Territory,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2013,Northern Territory,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2013,Northern Territory,Other cerebrovascular diseases (I67),0
+2013,Northern Territory,Sequelae of cerebrovascular disease (I69),3
+2014,Northern Territory,Subarachnoid haemorrhage (I60),1
+2014,Northern Territory,Intracerebral haemorrhage (I61),9
+2014,Northern Territory,Other nontraumatic intracranial haemorrhage (I62),1
+2014,Northern Territory,Cerebral infarction (I63),5
+2014,Northern Territory,"Stroke, not specified as haemorrhage or infarction (I64)",12
+2014,Northern Territory,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2014,Northern Territory,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2014,Northern Territory,Other cerebrovascular diseases (I67),1
+2014,Northern Territory,Sequelae of cerebrovascular disease (I69),6
+2015,Northern Territory,Subarachnoid haemorrhage (I60),4
+2015,Northern Territory,Intracerebral haemorrhage (I61),6
+2015,Northern Territory,Other nontraumatic intracranial haemorrhage (I62),1
+2015,Northern Territory,Cerebral infarction (I63),1
+2015,Northern Territory,"Stroke, not specified as haemorrhage or infarction (I64)",8
+2015,Northern Territory,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2015,Northern Territory,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2015,Northern Territory,Other cerebrovascular diseases (I67),1
+2015,Northern Territory,Sequelae of cerebrovascular disease (I69),8
+2016,Northern Territory,Subarachnoid haemorrhage (I60),5
+2016,Northern Territory,Intracerebral haemorrhage (I61),4
+2016,Northern Territory,Other nontraumatic intracranial haemorrhage (I62),3
+2016,Northern Territory,Cerebral infarction (I63),6
+2016,Northern Territory,"Stroke, not specified as haemorrhage or infarction (I64)",9
+2016,Northern Territory,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2016,Northern Territory,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2016,Northern Territory,Other cerebrovascular diseases (I67),3
+2016,Northern Territory,Sequelae of cerebrovascular disease (I69),8
+2017,Northern Territory,Subarachnoid haemorrhage (I60),3
+2017,Northern Territory,Intracerebral haemorrhage (I61),6
+2017,Northern Territory,Other nontraumatic intracranial haemorrhage (I62),2
+2017,Northern Territory,Cerebral infarction (I63),6
+2017,Northern Territory,"Stroke, not specified as haemorrhage or infarction (I64)",8
+2017,Northern Territory,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2017,Northern Territory,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2017,Northern Territory,Other cerebrovascular diseases (I67),4
+2017,Northern Territory,Sequelae of cerebrovascular disease (I69),6
+2018,Northern Territory,Subarachnoid haemorrhage (I60),0
+2018,Northern Territory,Intracerebral haemorrhage (I61),7
+2018,Northern Territory,Other nontraumatic intracranial haemorrhage (I62),6
+2018,Northern Territory,Cerebral infarction (I63),5
+2018,Northern Territory,"Stroke, not specified as haemorrhage or infarction (I64)",8
+2018,Northern Territory,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2018,Northern Territory,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2018,Northern Territory,Other cerebrovascular diseases (I67),3
+2018,Northern Territory,Sequelae of cerebrovascular disease (I69),3
+2019,Northern Territory,Subarachnoid haemorrhage (I60),1
+2019,Northern Territory,Intracerebral haemorrhage (I61),8
+2019,Northern Territory,Other nontraumatic intracranial haemorrhage (I62),4
+2019,Northern Territory,Cerebral infarction (I63),9
+2019,Northern Territory,"Stroke, not specified as haemorrhage or infarction (I64)",14
+2019,Northern Territory,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2019,Northern Territory,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2019,Northern Territory,Other cerebrovascular diseases (I67),2
+2019,Northern Territory,Sequelae of cerebrovascular disease (I69),1
+2020,Northern Territory,Subarachnoid haemorrhage (I60),6
+2020,Northern Territory,Intracerebral haemorrhage (I61),2
+2020,Northern Territory,Other nontraumatic intracranial haemorrhage (I62),10
+2020,Northern Territory,Cerebral infarction (I63),6
+2020,Northern Territory,"Stroke, not specified as haemorrhage or infarction (I64)",5
+2020,Northern Territory,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2020,Northern Territory,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2020,Northern Territory,Other cerebrovascular diseases (I67),5
+2020,Northern Territory,Sequelae of cerebrovascular disease (I69),4
+2011,Australian Capital Territory,Subarachnoid haemorrhage (I60),7
+2011,Australian Capital Territory,Intracerebral haemorrhage (I61),11
+2011,Australian Capital Territory,Other nontraumatic intracranial haemorrhage (I62),5
+2011,Australian Capital Territory,Cerebral infarction (I63),8
+2011,Australian Capital Territory,"Stroke, not specified as haemorrhage or infarction (I64)",53
+2011,Australian Capital Territory,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2011,Australian Capital Territory,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2011,Australian Capital Territory,Other cerebrovascular diseases (I67),3
+2011,Australian Capital Territory,Sequelae of cerebrovascular disease (I69),30
+2012,Australian Capital Territory,Subarachnoid haemorrhage (I60),6
+2012,Australian Capital Territory,Intracerebral haemorrhage (I61),16
+2012,Australian Capital Territory,Other nontraumatic intracranial haemorrhage (I62),9
+2012,Australian Capital Territory,Cerebral infarction (I63),5
+2012,Australian Capital Territory,"Stroke, not specified as haemorrhage or infarction (I64)",56
+2012,Australian Capital Territory,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2012,Australian Capital Territory,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2012,Australian Capital Territory,Other cerebrovascular diseases (I67),9
+2012,Australian Capital Territory,Sequelae of cerebrovascular disease (I69),24
+2013,Australian Capital Territory,Subarachnoid haemorrhage (I60),8
+2013,Australian Capital Territory,Intracerebral haemorrhage (I61),11
+2013,Australian Capital Territory,Other nontraumatic intracranial haemorrhage (I62),8
+2013,Australian Capital Territory,Cerebral infarction (I63),7
+2013,Australian Capital Territory,"Stroke, not specified as haemorrhage or infarction (I64)",60
+2013,Australian Capital Territory,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2013,Australian Capital Territory,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2013,Australian Capital Territory,Other cerebrovascular diseases (I67),4
+2013,Australian Capital Territory,Sequelae of cerebrovascular disease (I69),12
+2014,Australian Capital Territory,Subarachnoid haemorrhage (I60),1
+2014,Australian Capital Territory,Intracerebral haemorrhage (I61),13
+2014,Australian Capital Territory,Other nontraumatic intracranial haemorrhage (I62),8
+2014,Australian Capital Territory,Cerebral infarction (I63),13
+2014,Australian Capital Territory,"Stroke, not specified as haemorrhage or infarction (I64)",57
+2014,Australian Capital Territory,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2014,Australian Capital Territory,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2014,Australian Capital Territory,Other cerebrovascular diseases (I67),7
+2014,Australian Capital Territory,Sequelae of cerebrovascular disease (I69),26
+2015,Australian Capital Territory,Subarachnoid haemorrhage (I60),4
+2015,Australian Capital Territory,Intracerebral haemorrhage (I61),24
+2015,Australian Capital Territory,Other nontraumatic intracranial haemorrhage (I62),11
+2015,Australian Capital Territory,Cerebral infarction (I63),6
+2015,Australian Capital Territory,"Stroke, not specified as haemorrhage or infarction (I64)",61
+2015,Australian Capital Territory,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2015,Australian Capital Territory,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2015,Australian Capital Territory,Other cerebrovascular diseases (I67),1
+2015,Australian Capital Territory,Sequelae of cerebrovascular disease (I69),26
+2016,Australian Capital Territory,Subarachnoid haemorrhage (I60),6
+2016,Australian Capital Territory,Intracerebral haemorrhage (I61),14
+2016,Australian Capital Territory,Other nontraumatic intracranial haemorrhage (I62),6
+2016,Australian Capital Territory,Cerebral infarction (I63),10
+2016,Australian Capital Territory,"Stroke, not specified as haemorrhage or infarction (I64)",65
+2016,Australian Capital Territory,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2016,Australian Capital Territory,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2016,Australian Capital Territory,Other cerebrovascular diseases (I67),3
+2016,Australian Capital Territory,Sequelae of cerebrovascular disease (I69),14
+2017,Australian Capital Territory,Subarachnoid haemorrhage (I60),5
+2017,Australian Capital Territory,Intracerebral haemorrhage (I61),17
+2017,Australian Capital Territory,Other nontraumatic intracranial haemorrhage (I62),8
+2017,Australian Capital Territory,Cerebral infarction (I63),14
+2017,Australian Capital Territory,"Stroke, not specified as haemorrhage or infarction (I64)",70
+2017,Australian Capital Territory,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2017,Australian Capital Territory,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2017,Australian Capital Territory,Other cerebrovascular diseases (I67),8
+2017,Australian Capital Territory,Sequelae of cerebrovascular disease (I69),22
+2018,Australian Capital Territory,Subarachnoid haemorrhage (I60),6
+2018,Australian Capital Territory,Intracerebral haemorrhage (I61),17
+2018,Australian Capital Territory,Other nontraumatic intracranial haemorrhage (I62),11
+2018,Australian Capital Territory,Cerebral infarction (I63),22
+2018,Australian Capital Territory,"Stroke, not specified as haemorrhage or infarction (I64)",70
+2018,Australian Capital Territory,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2018,Australian Capital Territory,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2018,Australian Capital Territory,Other cerebrovascular diseases (I67),9
+2018,Australian Capital Territory,Sequelae of cerebrovascular disease (I69),16
+2019,Australian Capital Territory,Subarachnoid haemorrhage (I60),10
+2019,Australian Capital Territory,Intracerebral haemorrhage (I61),13
+2019,Australian Capital Territory,Other nontraumatic intracranial haemorrhage (I62),10
+2019,Australian Capital Territory,Cerebral infarction (I63),13
+2019,Australian Capital Territory,"Stroke, not specified as haemorrhage or infarction (I64)",62
+2019,Australian Capital Territory,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2019,Australian Capital Territory,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2019,Australian Capital Territory,Other cerebrovascular diseases (I67),8
+2019,Australian Capital Territory,Sequelae of cerebrovascular disease (I69),8
+2020,Australian Capital Territory,Subarachnoid haemorrhage (I60),1
+2020,Australian Capital Territory,Intracerebral haemorrhage (I61),18
+2020,Australian Capital Territory,Other nontraumatic intracranial haemorrhage (I62),10
+2020,Australian Capital Territory,Cerebral infarction (I63),16
+2020,Australian Capital Territory,"Stroke, not specified as haemorrhage or infarction (I64)",78
+2020,Australian Capital Territory,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction (I65)",0
+2020,Australian Capital Territory,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction (I66)",0
+2020,Australian Capital Territory,Other cerebrovascular diseases (I67),10
+2020,Australian Capital Territory,Sequelae of cerebrovascular disease (I69),6

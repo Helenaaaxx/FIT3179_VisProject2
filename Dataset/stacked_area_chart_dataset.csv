@@ -1,0 +1,541 @@
+Year,State,Type,Number of Deaths
+2011,Australia,Angina pectoris (I20),31
+2011,Australia,Acute myocardial infarction (I21),9819
+2011,Australia,Subsequent myocardial infarction (I22),11
+2011,Australia,Certain current complications following acute myocardial infarction (I23),0
+2011,Australia,Other acute ischaemic heart diseases (I24),234
+2011,Australia,Chronic ischaemic heart disease (I25),11431
+2012,Australia,Angina pectoris (I20),28
+2012,Australia,Acute myocardial infarction (I21),9293
+2012,Australia,Subsequent myocardial infarction (I22),3
+2012,Australia,Certain current complications following acute myocardial infarction (I23),0
+2012,Australia,Other acute ischaemic heart diseases (I24),296
+2012,Australia,Chronic ischaemic heart disease (I25),10488
+2013,Australia,Angina pectoris (I20),28
+2013,Australia,Acute myocardial infarction (I21),8613
+2013,Australia,Subsequent myocardial infarction (I22),0
+2013,Australia,Certain current complications following acute myocardial infarction (I23),0
+2013,Australia,Other acute ischaemic heart diseases (I24),330
+2013,Australia,Chronic ischaemic heart disease (I25),10807
+2014,Australia,Angina pectoris (I20),32
+2014,Australia,Acute myocardial infarction (I21),8632
+2014,Australia,Subsequent myocardial infarction (I22),0
+2014,Australia,Certain current complications following acute myocardial infarction (I23),0
+2014,Australia,Other acute ischaemic heart diseases (I24),339
+2014,Australia,Chronic ischaemic heart disease (I25),11196
+2015,Australia,Angina pectoris (I20),23
+2015,Australia,Acute myocardial infarction (I21),8463
+2015,Australia,Subsequent myocardial infarction (I22),0
+2015,Australia,Certain current complications following acute myocardial infarction (I23),0
+2015,Australia,Other acute ischaemic heart diseases (I24),380
+2015,Australia,Chronic ischaemic heart disease (I25),11045
+2016,Australia,Angina pectoris (I20),24
+2016,Australia,Acute myocardial infarction (I21),8032
+2016,Australia,Subsequent myocardial infarction (I22),0
+2016,Australia,Certain current complications following acute myocardial infarction (I23),0
+2016,Australia,Other acute ischaemic heart diseases (I24),355
+2016,Australia,Chronic ischaemic heart disease (I25),10783
+2017,Australia,Angina pectoris (I20),25
+2017,Australia,Acute myocardial infarction (I21),7847
+2017,Australia,Subsequent myocardial infarction (I22),0
+2017,Australia,Certain current complications following acute myocardial infarction (I23),0
+2017,Australia,Other acute ischaemic heart diseases (I24),373
+2017,Australia,Chronic ischaemic heart disease (I25),10500
+2018,Australia,Angina pectoris (I20),18
+2018,Australia,Acute myocardial infarction (I21),7354
+2018,Australia,Subsequent myocardial infarction (I22),0
+2018,Australia,Certain current complications following acute myocardial infarction (I23),0
+2018,Australia,Other acute ischaemic heart diseases (I24),343
+2018,Australia,Chronic ischaemic heart disease (I25),10041
+2019,Australia,Angina pectoris (I20),20
+2019,Australia,Acute myocardial infarction (I21),7101
+2019,Australia,Subsequent myocardial infarction (I22),0
+2019,Australia,Certain current complications following acute myocardial infarction (I23),0
+2019,Australia,Other acute ischaemic heart diseases (I24),387
+2019,Australia,Chronic ischaemic heart disease (I25),10736
+2020,Australia,Angina pectoris (I20),31
+2020,Australia,Acute myocardial infarction (I21),6519
+2020,Australia,Subsequent myocardial infarction (I22),0
+2020,Australia,Certain current complications following acute myocardial infarction (I23),0
+2020,Australia,Other acute ischaemic heart diseases (I24),375
+2020,Australia,Chronic ischaemic heart disease (I25),9662
+2011,New South Wales,Angina pectoris (I20),6
+2011,New South Wales,Acute myocardial infarction (I21),3402
+2011,New South Wales,Subsequent myocardial infarction (I22),1
+2011,New South Wales,Certain current complications following acute myocardial infarction (I23),0
+2011,New South Wales,Other acute ischaemic heart diseases (I24),88
+2011,New South Wales,Chronic ischaemic heart disease (I25),3816
+2012,New South Wales,Angina pectoris (I20),9
+2012,New South Wales,Acute myocardial infarction (I21),3095
+2012,New South Wales,Subsequent myocardial infarction (I22),2
+2012,New South Wales,Certain current complications following acute myocardial infarction (I23),0
+2012,New South Wales,Other acute ischaemic heart diseases (I24),122
+2012,New South Wales,Chronic ischaemic heart disease (I25),3416
+2013,New South Wales,Angina pectoris (I20),15
+2013,New South Wales,Acute myocardial infarction (I21),2914
+2013,New South Wales,Subsequent myocardial infarction (I22),0
+2013,New South Wales,Certain current complications following acute myocardial infarction (I23),0
+2013,New South Wales,Other acute ischaemic heart diseases (I24),127
+2013,New South Wales,Chronic ischaemic heart disease (I25),3647
+2014,New South Wales,Angina pectoris (I20),9
+2014,New South Wales,Acute myocardial infarction (I21),2979
+2014,New South Wales,Subsequent myocardial infarction (I22),0
+2014,New South Wales,Certain current complications following acute myocardial infarction (I23),0
+2014,New South Wales,Other acute ischaemic heart diseases (I24),98
+2014,New South Wales,Chronic ischaemic heart disease (I25),3795
+2015,New South Wales,Angina pectoris (I20),6
+2015,New South Wales,Acute myocardial infarction (I21),2728
+2015,New South Wales,Subsequent myocardial infarction (I22),0
+2015,New South Wales,Certain current complications following acute myocardial infarction (I23),0
+2015,New South Wales,Other acute ischaemic heart diseases (I24),113
+2015,New South Wales,Chronic ischaemic heart disease (I25),3797
+2016,New South Wales,Angina pectoris (I20),4
+2016,New South Wales,Acute myocardial infarction (I21),2677
+2016,New South Wales,Subsequent myocardial infarction (I22),0
+2016,New South Wales,Certain current complications following acute myocardial infarction (I23),0
+2016,New South Wales,Other acute ischaemic heart diseases (I24),114
+2016,New South Wales,Chronic ischaemic heart disease (I25),3533
+2017,New South Wales,Angina pectoris (I20),9
+2017,New South Wales,Acute myocardial infarction (I21),2417
+2017,New South Wales,Subsequent myocardial infarction (I22),0
+2017,New South Wales,Certain current complications following acute myocardial infarction (I23),0
+2017,New South Wales,Other acute ischaemic heart diseases (I24),112
+2017,New South Wales,Chronic ischaemic heart disease (I25),3433
+2018,New South Wales,Angina pectoris (I20),3
+2018,New South Wales,Acute myocardial infarction (I21),2407
+2018,New South Wales,Subsequent myocardial infarction (I22),0
+2018,New South Wales,Certain current complications following acute myocardial infarction (I23),0
+2018,New South Wales,Other acute ischaemic heart diseases (I24),126
+2018,New South Wales,Chronic ischaemic heart disease (I25),3302
+2019,New South Wales,Angina pectoris (I20),7
+2019,New South Wales,Acute myocardial infarction (I21),2425
+2019,New South Wales,Subsequent myocardial infarction (I22),0
+2019,New South Wales,Certain current complications following acute myocardial infarction (I23),0
+2019,New South Wales,Other acute ischaemic heart diseases (I24),118
+2019,New South Wales,Chronic ischaemic heart disease (I25),3251
+2020,New South Wales,Angina pectoris (I20),3
+2020,New South Wales,Acute myocardial infarction (I21),2133
+2020,New South Wales,Subsequent myocardial infarction (I22),0
+2020,New South Wales,Certain current complications following acute myocardial infarction (I23),0
+2020,New South Wales,Other acute ischaemic heart diseases (I24),138
+2020,New South Wales,Chronic ischaemic heart disease (I25),3058
+2011,Victoria,Angina pectoris (I20),11
+2011,Victoria,Acute myocardial infarction (I21),2255
+2011,Victoria,Subsequent myocardial infarction (I22),1
+2011,Victoria,Certain current complications following acute myocardial infarction (I23),0
+2011,Victoria,Other acute ischaemic heart diseases (I24),65
+2011,Victoria,Chronic ischaemic heart disease (I25),2865
+2012,Victoria,Angina pectoris (I20),10
+2012,Victoria,Acute myocardial infarction (I21),2158
+2012,Victoria,Subsequent myocardial infarction (I22),0
+2012,Victoria,Certain current complications following acute myocardial infarction (I23),0
+2012,Victoria,Other acute ischaemic heart diseases (I24),67
+2012,Victoria,Chronic ischaemic heart disease (I25),2419
+2013,Victoria,Angina pectoris (I20),5
+2013,Victoria,Acute myocardial infarction (I21),1975
+2013,Victoria,Subsequent myocardial infarction (I22),0
+2013,Victoria,Certain current complications following acute myocardial infarction (I23),0
+2013,Victoria,Other acute ischaemic heart diseases (I24),75
+2013,Victoria,Chronic ischaemic heart disease (I25),2527
+2014,Victoria,Angina pectoris (I20),6
+2014,Victoria,Acute myocardial infarction (I21),1980
+2014,Victoria,Subsequent myocardial infarction (I22),0
+2014,Victoria,Certain current complications following acute myocardial infarction (I23),0
+2014,Victoria,Other acute ischaemic heart diseases (I24),101
+2014,Victoria,Chronic ischaemic heart disease (I25),2796
+2015,Victoria,Angina pectoris (I20),6
+2015,Victoria,Acute myocardial infarction (I21),2067
+2015,Victoria,Subsequent myocardial infarction (I22),0
+2015,Victoria,Certain current complications following acute myocardial infarction (I23),0
+2015,Victoria,Other acute ischaemic heart diseases (I24),124
+2015,Victoria,Chronic ischaemic heart disease (I25),2689
+2016,Victoria,Angina pectoris (I20),9
+2016,Victoria,Acute myocardial infarction (I21),1947
+2016,Victoria,Subsequent myocardial infarction (I22),0
+2016,Victoria,Certain current complications following acute myocardial infarction (I23),0
+2016,Victoria,Other acute ischaemic heart diseases (I24),95
+2016,Victoria,Chronic ischaemic heart disease (I25),2662
+2017,Victoria,Angina pectoris (I20),6
+2017,Victoria,Acute myocardial infarction (I21),2017
+2017,Victoria,Subsequent myocardial infarction (I22),0
+2017,Victoria,Certain current complications following acute myocardial infarction (I23),0
+2017,Victoria,Other acute ischaemic heart diseases (I24),117
+2017,Victoria,Chronic ischaemic heart disease (I25),2508
+2018,Victoria,Angina pectoris (I20),3
+2018,Victoria,Acute myocardial infarction (I21),1747
+2018,Victoria,Subsequent myocardial infarction (I22),0
+2018,Victoria,Certain current complications following acute myocardial infarction (I23),0
+2018,Victoria,Other acute ischaemic heart diseases (I24),107
+2018,Victoria,Chronic ischaemic heart disease (I25),2428
+2019,Victoria,Angina pectoris (I20),2
+2019,Victoria,Acute myocardial infarction (I21),1671
+2019,Victoria,Subsequent myocardial infarction (I22),0
+2019,Victoria,Certain current complications following acute myocardial infarction (I23),0
+2019,Victoria,Other acute ischaemic heart diseases (I24),111
+2019,Victoria,Chronic ischaemic heart disease (I25),3087
+2020,Victoria,Angina pectoris (I20),11
+2020,Victoria,Acute myocardial infarction (I21),1565
+2020,Victoria,Subsequent myocardial infarction (I22),0
+2020,Victoria,Certain current complications following acute myocardial infarction (I23),0
+2020,Victoria,Other acute ischaemic heart diseases (I24),93
+2020,Victoria,Chronic ischaemic heart disease (I25),2505
+2011,Queensland,Angina pectoris (I20),5
+2011,Queensland,Acute myocardial infarction (I21),2061
+2011,Queensland,Subsequent myocardial infarction (I22),1
+2011,Queensland,Certain current complications following acute myocardial infarction (I23),0
+2011,Queensland,Other acute ischaemic heart diseases (I24),41
+2011,Queensland,Chronic ischaemic heart disease (I25),2226
+2012,Queensland,Angina pectoris (I20),3
+2012,Queensland,Acute myocardial infarction (I21),1961
+2012,Queensland,Subsequent myocardial infarction (I22),0
+2012,Queensland,Certain current complications following acute myocardial infarction (I23),0
+2012,Queensland,Other acute ischaemic heart diseases (I24),49
+2012,Queensland,Chronic ischaemic heart disease (I25),2150
+2013,Queensland,Angina pectoris (I20),1
+2013,Queensland,Acute myocardial infarction (I21),1818
+2013,Queensland,Subsequent myocardial infarction (I22),0
+2013,Queensland,Certain current complications following acute myocardial infarction (I23),0
+2013,Queensland,Other acute ischaemic heart diseases (I24),60
+2013,Queensland,Chronic ischaemic heart disease (I25),2123
+2014,Queensland,Angina pectoris (I20),7
+2014,Queensland,Acute myocardial infarction (I21),1726
+2014,Queensland,Subsequent myocardial infarction (I22),0
+2014,Queensland,Certain current complications following acute myocardial infarction (I23),0
+2014,Queensland,Other acute ischaemic heart diseases (I24),74
+2014,Queensland,Chronic ischaemic heart disease (I25),2128
+2015,Queensland,Angina pectoris (I20),4
+2015,Queensland,Acute myocardial infarction (I21),1703
+2015,Queensland,Subsequent myocardial infarction (I22),0
+2015,Queensland,Certain current complications following acute myocardial infarction (I23),0
+2015,Queensland,Other acute ischaemic heart diseases (I24),68
+2015,Queensland,Chronic ischaemic heart disease (I25),2128
+2016,Queensland,Angina pectoris (I20),4
+2016,Queensland,Acute myocardial infarction (I21),1632
+2016,Queensland,Subsequent myocardial infarction (I22),0
+2016,Queensland,Certain current complications following acute myocardial infarction (I23),0
+2016,Queensland,Other acute ischaemic heart diseases (I24),69
+2016,Queensland,Chronic ischaemic heart disease (I25),2134
+2017,Queensland,Angina pectoris (I20),5
+2017,Queensland,Acute myocardial infarction (I21),1641
+2017,Queensland,Subsequent myocardial infarction (I22),0
+2017,Queensland,Certain current complications following acute myocardial infarction (I23),0
+2017,Queensland,Other acute ischaemic heart diseases (I24),80
+2017,Queensland,Chronic ischaemic heart disease (I25),2267
+2018,Queensland,Angina pectoris (I20),3
+2018,Queensland,Acute myocardial infarction (I21),1510
+2018,Queensland,Subsequent myocardial infarction (I22),0
+2018,Queensland,Certain current complications following acute myocardial infarction (I23),0
+2018,Queensland,Other acute ischaemic heart diseases (I24),56
+2018,Queensland,Chronic ischaemic heart disease (I25),2052
+2019,Queensland,Angina pectoris (I20),2
+2019,Queensland,Acute myocardial infarction (I21),1451
+2019,Queensland,Subsequent myocardial infarction (I22),0
+2019,Queensland,Certain current complications following acute myocardial infarction (I23),0
+2019,Queensland,Other acute ischaemic heart diseases (I24),93
+2019,Queensland,Chronic ischaemic heart disease (I25),2202
+2020,Queensland,Angina pectoris (I20),9
+2020,Queensland,Acute myocardial infarction (I21),1358
+2020,Queensland,Subsequent myocardial infarction (I22),0
+2020,Queensland,Certain current complications following acute myocardial infarction (I23),0
+2020,Queensland,Other acute ischaemic heart diseases (I24),78
+2020,Queensland,Chronic ischaemic heart disease (I25),1923
+2011,South Australia,Angina pectoris (I20),5
+2011,South Australia,Acute myocardial infarction (I21),891
+2011,South Australia,Subsequent myocardial infarction (I22),0
+2011,South Australia,Certain current complications following acute myocardial infarction (I23),0
+2011,South Australia,Other acute ischaemic heart diseases (I24),19
+2011,South Australia,Chronic ischaemic heart disease (I25),1041
+2012,South Australia,Angina pectoris (I20),3
+2012,South Australia,Acute myocardial infarction (I21),860
+2012,South Australia,Subsequent myocardial infarction (I22),2
+2012,South Australia,Certain current complications following acute myocardial infarction (I23),0
+2012,South Australia,Other acute ischaemic heart diseases (I24),24
+2012,South Australia,Chronic ischaemic heart disease (I25),1034
+2013,South Australia,Angina pectoris (I20),1
+2013,South Australia,Acute myocardial infarction (I21),751
+2013,South Australia,Subsequent myocardial infarction (I22),0
+2013,South Australia,Certain current complications following acute myocardial infarction (I23),0
+2013,South Australia,Other acute ischaemic heart diseases (I24),21
+2013,South Australia,Chronic ischaemic heart disease (I25),1021
+2014,South Australia,Angina pectoris (I20),5
+2014,South Australia,Acute myocardial infarction (I21),805
+2014,South Australia,Subsequent myocardial infarction (I22),0
+2014,South Australia,Certain current complications following acute myocardial infarction (I23),0
+2014,South Australia,Other acute ischaemic heart diseases (I24),28
+2014,South Australia,Chronic ischaemic heart disease (I25),985
+2015,South Australia,Angina pectoris (I20),4
+2015,South Australia,Acute myocardial infarction (I21),760
+2015,South Australia,Subsequent myocardial infarction (I22),0
+2015,South Australia,Certain current complications following acute myocardial infarction (I23),0
+2015,South Australia,Other acute ischaemic heart diseases (I24),23
+2015,South Australia,Chronic ischaemic heart disease (I25),940
+2016,South Australia,Angina pectoris (I20),4
+2016,South Australia,Acute myocardial infarction (I21),638
+2016,South Australia,Subsequent myocardial infarction (I22),0
+2016,South Australia,Certain current complications following acute myocardial infarction (I23),0
+2016,South Australia,Other acute ischaemic heart diseases (I24),40
+2016,South Australia,Chronic ischaemic heart disease (I25),967
+2017,South Australia,Angina pectoris (I20),5
+2017,South Australia,Acute myocardial infarction (I21),691
+2017,South Australia,Subsequent myocardial infarction (I22),0
+2017,South Australia,Certain current complications following acute myocardial infarction (I23),0
+2017,South Australia,Other acute ischaemic heart diseases (I24),33
+2017,South Australia,Chronic ischaemic heart disease (I25),896
+2018,South Australia,Angina pectoris (I20),0
+2018,South Australia,Acute myocardial infarction (I21),657
+2018,South Australia,Subsequent myocardial infarction (I22),0
+2018,South Australia,Certain current complications following acute myocardial infarction (I23),0
+2018,South Australia,Other acute ischaemic heart diseases (I24),18
+2018,South Australia,Chronic ischaemic heart disease (I25),906
+2019,South Australia,Angina pectoris (I20),2
+2019,South Australia,Acute myocardial infarction (I21),597
+2019,South Australia,Subsequent myocardial infarction (I22),0
+2019,South Australia,Certain current complications following acute myocardial infarction (I23),0
+2019,South Australia,Other acute ischaemic heart diseases (I24),26
+2019,South Australia,Chronic ischaemic heart disease (I25),791
+2020,South Australia,Angina pectoris (I20),3
+2020,South Australia,Acute myocardial infarction (I21),572
+2020,South Australia,Subsequent myocardial infarction (I22),0
+2020,South Australia,Certain current complications following acute myocardial infarction (I23),0
+2020,South Australia,Other acute ischaemic heart diseases (I24),25
+2020,South Australia,Chronic ischaemic heart disease (I25),798
+2011,Western Australia,Angina pectoris (I20),1
+2011,Western Australia,Acute myocardial infarction (I21),844
+2011,Western Australia,Subsequent myocardial infarction (I22),1
+2011,Western Australia,Certain current complications following acute myocardial infarction (I23),0
+2011,Western Australia,Other acute ischaemic heart diseases (I24),12
+2011,Western Australia,Chronic ischaemic heart disease (I25),964
+2012,Western Australia,Angina pectoris (I20),3
+2012,Western Australia,Acute myocardial infarction (I21),826
+2012,Western Australia,Subsequent myocardial infarction (I22),2
+2012,Western Australia,Certain current complications following acute myocardial infarction (I23),0
+2012,Western Australia,Other acute ischaemic heart diseases (I24),13
+2012,Western Australia,Chronic ischaemic heart disease (I25),916
+2013,Western Australia,Angina pectoris (I20),1
+2013,Western Australia,Acute myocardial infarction (I21),796
+2013,Western Australia,Subsequent myocardial infarction (I22),0
+2013,Western Australia,Certain current complications following acute myocardial infarction (I23),0
+2013,Western Australia,Other acute ischaemic heart diseases (I24),17
+2013,Western Australia,Chronic ischaemic heart disease (I25),984
+2014,Western Australia,Angina pectoris (I20),4
+2014,Western Australia,Acute myocardial infarction (I21),819
+2014,Western Australia,Subsequent myocardial infarction (I22),0
+2014,Western Australia,Certain current complications following acute myocardial infarction (I23),0
+2014,Western Australia,Other acute ischaemic heart diseases (I24),20
+2014,Western Australia,Chronic ischaemic heart disease (I25),988
+2015,Western Australia,Angina pectoris (I20),4
+2015,Western Australia,Acute myocardial infarction (I21),885
+2015,Western Australia,Subsequent myocardial infarction (I22),0
+2015,Western Australia,Certain current complications following acute myocardial infarction (I23),0
+2015,Western Australia,Other acute ischaemic heart diseases (I24),22
+2015,Western Australia,Chronic ischaemic heart disease (I25),930
+2016,Western Australia,Angina pectoris (I20),4
+2016,Western Australia,Acute myocardial infarction (I21),800
+2016,Western Australia,Subsequent myocardial infarction (I22),0
+2016,Western Australia,Certain current complications following acute myocardial infarction (I23),0
+2016,Western Australia,Other acute ischaemic heart diseases (I24),11
+2016,Western Australia,Chronic ischaemic heart disease (I25),942
+2017,Western Australia,Angina pectoris (I20),0
+2017,Western Australia,Acute myocardial infarction (I21),741
+2017,Western Australia,Subsequent myocardial infarction (I22),0
+2017,Western Australia,Certain current complications following acute myocardial infarction (I23),0
+2017,Western Australia,Other acute ischaemic heart diseases (I24),11
+2017,Western Australia,Chronic ischaemic heart disease (I25),845
+2018,Western Australia,Angina pectoris (I20),5
+2018,Western Australia,Acute myocardial infarction (I21),731
+2018,Western Australia,Subsequent myocardial infarction (I22),0
+2018,Western Australia,Certain current complications following acute myocardial infarction (I23),0
+2018,Western Australia,Other acute ischaemic heart diseases (I24),17
+2018,Western Australia,Chronic ischaemic heart disease (I25),848
+2019,Western Australia,Angina pectoris (I20),2
+2019,Western Australia,Acute myocardial infarction (I21),679
+2019,Western Australia,Subsequent myocardial infarction (I22),0
+2019,Western Australia,Certain current complications following acute myocardial infarction (I23),0
+2019,Western Australia,Other acute ischaemic heart diseases (I24),15
+2019,Western Australia,Chronic ischaemic heart disease (I25),870
+2020,Western Australia,Angina pectoris (I20),3
+2020,Western Australia,Acute myocardial infarction (I21),626
+2020,Western Australia,Subsequent myocardial infarction (I22),0
+2020,Western Australia,Certain current complications following acute myocardial infarction (I23),0
+2020,Western Australia,Other acute ischaemic heart diseases (I24),16
+2020,Western Australia,Chronic ischaemic heart disease (I25),851
+2011,Tasmania,Angina pectoris (I20),1
+2011,Tasmania,Acute myocardial infarction (I21),239
+2011,Tasmania,Subsequent myocardial infarction (I22),1
+2011,Tasmania,Certain current complications following acute myocardial infarction (I23),0
+2011,Tasmania,Other acute ischaemic heart diseases (I24),8
+2011,Tasmania,Chronic ischaemic heart disease (I25),303
+2012,Tasmania,Angina pectoris (I20),3
+2012,Tasmania,Acute myocardial infarction (I21),261
+2012,Tasmania,Subsequent myocardial infarction (I22),0
+2012,Tasmania,Certain current complications following acute myocardial infarction (I23),0
+2012,Tasmania,Other acute ischaemic heart diseases (I24),11
+2012,Tasmania,Chronic ischaemic heart disease (I25),338
+2013,Tasmania,Angina pectoris (I20),0
+2013,Tasmania,Acute myocardial infarction (I21),246
+2013,Tasmania,Subsequent myocardial infarction (I22),0
+2013,Tasmania,Certain current complications following acute myocardial infarction (I23),0
+2013,Tasmania,Other acute ischaemic heart diseases (I24),22
+2013,Tasmania,Chronic ischaemic heart disease (I25),306
+2014,Tasmania,Angina pectoris (I20),4
+2014,Tasmania,Acute myocardial infarction (I21),203
+2014,Tasmania,Subsequent myocardial infarction (I22),0
+2014,Tasmania,Certain current complications following acute myocardial infarction (I23),0
+2014,Tasmania,Other acute ischaemic heart diseases (I24),13
+2014,Tasmania,Chronic ischaemic heart disease (I25),315
+2015,Tasmania,Angina pectoris (I20),4
+2015,Tasmania,Acute myocardial infarction (I21),198
+2015,Tasmania,Subsequent myocardial infarction (I22),0
+2015,Tasmania,Certain current complications following acute myocardial infarction (I23),0
+2015,Tasmania,Other acute ischaemic heart diseases (I24),22
+2015,Tasmania,Chronic ischaemic heart disease (I25),347
+2016,Tasmania,Angina pectoris (I20),4
+2016,Tasmania,Acute myocardial infarction (I21),219
+2016,Tasmania,Subsequent myocardial infarction (I22),0
+2016,Tasmania,Certain current complications following acute myocardial infarction (I23),0
+2016,Tasmania,Other acute ischaemic heart diseases (I24),18
+2016,Tasmania,Chronic ischaemic heart disease (I25),339
+2017,Tasmania,Angina pectoris (I20),0
+2017,Tasmania,Acute myocardial infarction (I21),214
+2017,Tasmania,Subsequent myocardial infarction (I22),0
+2017,Tasmania,Certain current complications following acute myocardial infarction (I23),0
+2017,Tasmania,Other acute ischaemic heart diseases (I24),16
+2017,Tasmania,Chronic ischaemic heart disease (I25),307
+2018,Tasmania,Angina pectoris (I20),3
+2018,Tasmania,Acute myocardial infarction (I21),201
+2018,Tasmania,Subsequent myocardial infarction (I22),0
+2018,Tasmania,Certain current complications following acute myocardial infarction (I23),0
+2018,Tasmania,Other acute ischaemic heart diseases (I24),15
+2018,Tasmania,Chronic ischaemic heart disease (I25),311
+2019,Tasmania,Angina pectoris (I20),0
+2019,Tasmania,Acute myocardial infarction (I21),180
+2019,Tasmania,Subsequent myocardial infarction (I22),0
+2019,Tasmania,Certain current complications following acute myocardial infarction (I23),0
+2019,Tasmania,Other acute ischaemic heart diseases (I24),17
+2019,Tasmania,Chronic ischaemic heart disease (I25),306
+2020,Tasmania,Angina pectoris (I20),0
+2020,Tasmania,Acute myocardial infarction (I21),173
+2020,Tasmania,Subsequent myocardial infarction (I22),0
+2020,Tasmania,Certain current complications following acute myocardial infarction (I23),0
+2020,Tasmania,Other acute ischaemic heart diseases (I24),19
+2020,Tasmania,Chronic ischaemic heart disease (I25),312
+2011,Northern Territory,Angina pectoris (I20),0
+2011,Northern Territory,Acute myocardial infarction (I21),56
+2011,Northern Territory,Subsequent myocardial infarction (I22),0
+2011,Northern Territory,Certain current complications following acute myocardial infarction (I23),0
+2011,Northern Territory,Other acute ischaemic heart diseases (I24),0
+2011,Northern Territory,Chronic ischaemic heart disease (I25),74
+2012,Northern Territory,Angina pectoris (I20),0
+2012,Northern Territory,Acute myocardial infarction (I21),56
+2012,Northern Territory,Subsequent myocardial infarction (I22),0
+2012,Northern Territory,Certain current complications following acute myocardial infarction (I23),0
+2012,Northern Territory,Other acute ischaemic heart diseases (I24),0
+2012,Northern Territory,Chronic ischaemic heart disease (I25),79
+2013,Northern Territory,Angina pectoris (I20),0
+2013,Northern Territory,Acute myocardial infarction (I21),42
+2013,Northern Territory,Subsequent myocardial infarction (I22),0
+2013,Northern Territory,Certain current complications following acute myocardial infarction (I23),0
+2013,Northern Territory,Other acute ischaemic heart diseases (I24),4
+2013,Northern Territory,Chronic ischaemic heart disease (I25),78
+2014,Northern Territory,Angina pectoris (I20),0
+2014,Northern Territory,Acute myocardial infarction (I21),54
+2014,Northern Territory,Subsequent myocardial infarction (I22),0
+2014,Northern Territory,Certain current complications following acute myocardial infarction (I23),0
+2014,Northern Territory,Other acute ischaemic heart diseases (I24),2
+2014,Northern Territory,Chronic ischaemic heart disease (I25),70
+2015,Northern Territory,Angina pectoris (I20),0
+2015,Northern Territory,Acute myocardial infarction (I21),63
+2015,Northern Territory,Subsequent myocardial infarction (I22),0
+2015,Northern Territory,Certain current complications following acute myocardial infarction (I23),0
+2015,Northern Territory,Other acute ischaemic heart diseases (I24),4
+2015,Northern Territory,Chronic ischaemic heart disease (I25),79
+2016,Northern Territory,Angina pectoris (I20),4
+2016,Northern Territory,Acute myocardial infarction (I21),57
+2016,Northern Territory,Subsequent myocardial infarction (I22),0
+2016,Northern Territory,Certain current complications following acute myocardial infarction (I23),0
+2016,Northern Territory,Other acute ischaemic heart diseases (I24),1
+2016,Northern Territory,Chronic ischaemic heart disease (I25),62
+2017,Northern Territory,Angina pectoris (I20),0
+2017,Northern Territory,Acute myocardial infarction (I21),44
+2017,Northern Territory,Subsequent myocardial infarction (I22),0
+2017,Northern Territory,Certain current complications following acute myocardial infarction (I23),0
+2017,Northern Territory,Other acute ischaemic heart diseases (I24),0
+2017,Northern Territory,Chronic ischaemic heart disease (I25),82
+2018,Northern Territory,Angina pectoris (I20),0
+2018,Northern Territory,Acute myocardial infarction (I21),33
+2018,Northern Territory,Subsequent myocardial infarction (I22),0
+2018,Northern Territory,Certain current complications following acute myocardial infarction (I23),0
+2018,Northern Territory,Other acute ischaemic heart diseases (I24),1
+2018,Northern Territory,Chronic ischaemic heart disease (I25),79
+2019,Northern Territory,Angina pectoris (I20),0
+2019,Northern Territory,Acute myocardial infarction (I21),33
+2019,Northern Territory,Subsequent myocardial infarction (I22),0
+2019,Northern Territory,Certain current complications following acute myocardial infarction (I23),0
+2019,Northern Territory,Other acute ischaemic heart diseases (I24),4
+2019,Northern Territory,Chronic ischaemic heart disease (I25),99
+2020,Northern Territory,Angina pectoris (I20),0
+2020,Northern Territory,Acute myocardial infarction (I21),26
+2020,Northern Territory,Subsequent myocardial infarction (I22),0
+2020,Northern Territory,Certain current complications following acute myocardial infarction (I23),0
+2020,Northern Territory,Other acute ischaemic heart diseases (I24),0
+2020,Northern Territory,Chronic ischaemic heart disease (I25),73
+2011,Australian Capital Territory,Angina pectoris (I20),0
+2011,Australian Capital Territory,Acute myocardial infarction (I21),70
+2011,Australian Capital Territory,Subsequent myocardial infarction (I22),0
+2011,Australian Capital Territory,Certain current complications following acute myocardial infarction (I23),0
+2011,Australian Capital Territory,Other acute ischaemic heart diseases (I24),2
+2011,Australian Capital Territory,Chronic ischaemic heart disease (I25),142
+2012,Australian Capital Territory,Angina pectoris (I20),3
+2012,Australian Capital Territory,Acute myocardial infarction (I21),75
+2012,Australian Capital Territory,Subsequent myocardial infarction (I22),0
+2012,Australian Capital Territory,Certain current complications following acute myocardial infarction (I23),0
+2012,Australian Capital Territory,Other acute ischaemic heart diseases (I24),10
+2012,Australian Capital Territory,Chronic ischaemic heart disease (I25),136
+2013,Australian Capital Territory,Angina pectoris (I20),1
+2013,Australian Capital Territory,Acute myocardial infarction (I21),71
+2013,Australian Capital Territory,Subsequent myocardial infarction (I22),0
+2013,Australian Capital Territory,Certain current complications following acute myocardial infarction (I23),0
+2013,Australian Capital Territory,Other acute ischaemic heart diseases (I24),6
+2013,Australian Capital Territory,Chronic ischaemic heart disease (I25),120
+2014,Australian Capital Territory,Angina pectoris (I20),0
+2014,Australian Capital Territory,Acute myocardial infarction (I21),65
+2014,Australian Capital Territory,Subsequent myocardial infarction (I22),0
+2014,Australian Capital Territory,Certain current complications following acute myocardial infarction (I23),0
+2014,Australian Capital Territory,Other acute ischaemic heart diseases (I24),2
+2014,Australian Capital Territory,Chronic ischaemic heart disease (I25),119
+2015,Australian Capital Territory,Angina pectoris (I20),0
+2015,Australian Capital Territory,Acute myocardial infarction (I21),59
+2015,Australian Capital Territory,Subsequent myocardial infarction (I22),0
+2015,Australian Capital Territory,Certain current complications following acute myocardial infarction (I23),0
+2015,Australian Capital Territory,Other acute ischaemic heart diseases (I24),5
+2015,Australian Capital Territory,Chronic ischaemic heart disease (I25),134
+2016,Australian Capital Territory,Angina pectoris (I20),4
+2016,Australian Capital Territory,Acute myocardial infarction (I21),62
+2016,Australian Capital Territory,Subsequent myocardial infarction (I22),0
+2016,Australian Capital Territory,Certain current complications following acute myocardial infarction (I23),0
+2016,Australian Capital Territory,Other acute ischaemic heart diseases (I24),5
+2016,Australian Capital Territory,Chronic ischaemic heart disease (I25),144
+2017,Australian Capital Territory,Angina pectoris (I20),0
+2017,Australian Capital Territory,Acute myocardial infarction (I21),81
+2017,Australian Capital Territory,Subsequent myocardial infarction (I22),0
+2017,Australian Capital Territory,Certain current complications following acute myocardial infarction (I23),0
+2017,Australian Capital Territory,Other acute ischaemic heart diseases (I24),1
+2017,Australian Capital Territory,Chronic ischaemic heart disease (I25),160
+2018,Australian Capital Territory,Angina pectoris (I20),3
+2018,Australian Capital Territory,Acute myocardial infarction (I21),66
+2018,Australian Capital Territory,Subsequent myocardial infarction (I22),0
+2018,Australian Capital Territory,Certain current complications following acute myocardial infarction (I23),0
+2018,Australian Capital Territory,Other acute ischaemic heart diseases (I24),1
+2018,Australian Capital Territory,Chronic ischaemic heart disease (I25),114
+2019,Australian Capital Territory,Angina pectoris (I20),2
+2019,Australian Capital Territory,Acute myocardial infarction (I21),63
+2019,Australian Capital Territory,Subsequent myocardial infarction (I22),0
+2019,Australian Capital Territory,Certain current complications following acute myocardial infarction (I23),0
+2019,Australian Capital Territory,Other acute ischaemic heart diseases (I24),5
+2019,Australian Capital Territory,Chronic ischaemic heart disease (I25),128
+2020,Australian Capital Territory,Angina pectoris (I20),3
+2020,Australian Capital Territory,Acute myocardial infarction (I21),64
+2020,Australian Capital Territory,Subsequent myocardial infarction (I22),0
+2020,Australian Capital Territory,Certain current complications following acute myocardial infarction (I23),0
+2020,Australian Capital Territory,Other acute ischaemic heart diseases (I24),6
+2020,Australian Capital Territory,Chronic ischaemic heart disease (I25),142

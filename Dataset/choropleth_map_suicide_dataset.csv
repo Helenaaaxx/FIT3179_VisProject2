@@ -1,0 +1,241 @@
+Year,Gender,States,Rate
+2011,Overall,New South Wales,8.4
+2011,Overall,Victoria,9.2
+2011,Overall,Queensland,12.9
+2011,Overall,South Australia,12.9
+2011,Overall,Western Australia,12.9
+2011,Overall,Tasmania,14.1
+2011,Overall,Northern Territory,18.5
+2011,Overall,Australian Capital Territory,9.3
+2012,Overall,New South Wales,9.8
+2012,Overall,Victoria,9.0
+2012,Overall,Queensland,13.9
+2012,Overall,South Australia,11.7
+2012,Overall,Western Australia,15.0
+2012,Overall,Tasmania,13.7
+2012,Overall,Northern Territory,19.1
+2012,Overall,Australian Capital Territory,6.2
+2013,Overall,New South Wales,9.5
+2013,Overall,Victoria,8.9
+2013,Overall,Queensland,14.6
+2013,Overall,South Australia,11.9
+2013,Overall,Western Australia,13.5
+2013,Overall,Tasmania,14.2
+2013,Overall,Northern Territory,14.2
+2013,Overall,Australian Capital Territory,9.6
+2014,Overall,New South Wales,10.8
+2014,Overall,Victoria,10.9
+2014,Overall,Queensland,14.0
+2014,Overall,South Australia,14.4
+2014,Overall,Western Australia,14.5
+2014,Overall,Tasmania,12.8
+2014,Overall,Northern Territory,21.8
+2014,Overall,Australian Capital Territory,9.8
+2015,Overall,New South Wales,10.9
+2015,Overall,Victoria,11.1
+2015,Overall,Queensland,16.0
+2015,Overall,South Australia,13.3
+2015,Overall,Western Australia,15.6
+2015,Overall,Tasmania,16.2
+2015,Overall,Northern Territory,20.3
+2015,Overall,Australian Capital Territory,11.4
+2016,Overall,New South Wales,10.5
+2016,Overall,Victoria,10.1
+2016,Overall,Queensland,14.2
+2016,Overall,South Australia,13.0
+2016,Overall,Western Australia,14.5
+2016,Overall,Tasmania,17.1
+2016,Overall,Northern Territory,19.2
+2016,Overall,Australian Capital Territory,7.2
+2017,Overall,New South Wales,11.6
+2017,Overall,Victoria,11.1
+2017,Overall,Queensland,16.5
+2017,Overall,South Australia,12.9
+2017,Overall,Western Australia,16.2
+2017,Overall,Tasmania,15.3
+2017,Overall,Northern Territory,20.2
+2017,Overall,Australian Capital Territory,14.3
+2018,Overall,New South Wales,11.5
+2018,Overall,Victoria,10.5
+2018,Overall,Queensland,16.0
+2018,Overall,South Australia,11.9
+2018,Overall,Western Australia,14.7
+2018,Overall,Tasmania,14.5
+2018,Overall,Northern Territory,19.5
+2018,Overall,Australian Capital Territory,11.2
+2019,Overall,New South Wales,11.4
+2019,Overall,Victoria,10.7
+2019,Overall,Queensland,15.4
+2019,Overall,South Australia,13.9
+2019,Overall,Western Australia,16.0
+2019,Overall,Tasmania,19.5
+2019,Overall,Northern Territory,21.0
+2019,Overall,Australian Capital Territory,12.4
+2020,Overall,New South Wales,10.5
+2020,Overall,Victoria,10.1
+2020,Overall,Queensland,14.7
+2020,Overall,South Australia,13.3
+2020,Overall,Western Australia,14.3
+2020,Overall,Tasmania,15.9
+2020,Overall,Northern Territory,20.4
+2020,Overall,Australian Capital Territory,13.1
+2011,Male,New South Wales,12.9
+2011,Male,Victoria,14.3
+2011,Male,Queensland,19.9
+2011,Male,South Australia,20.4
+2011,Male,Western Australia,19.1
+2011,Male,Tasmania,20.2
+2011,Male,Northern Territory,30.5
+2011,Male,Australian Capital Territory,14.0
+2012,Male,New South Wales,14.5
+2012,Male,Victoria,13.9
+2012,Male,Queensland,21.2
+2012,Male,South Australia,18.0
+2012,Male,Western Australia,22.2
+2012,Male,Tasmania,22.2
+2012,Male,Northern Territory,31.0
+2012,Male,Australian Capital Territory,8.9
+2013,Male,New South Wales,14.1
+2013,Male,Victoria,13.5
+2013,Male,Queensland,22.7
+2013,Male,South Australia,18.0
+2013,Male,Western Australia,20.1
+2013,Male,Tasmania,21.5
+2013,Male,Northern Territory,18.5
+2013,Male,Australian Capital Territory,14.7
+2014,Male,New South Wales,16.5
+2014,Male,Victoria,17.2
+2014,Male,Queensland,21.4
+2014,Male,South Australia,22.3
+2014,Male,Western Australia,21.8
+2014,Male,Tasmania,21.8
+2014,Male,Northern Territory,24.6
+2014,Male,Australian Capital Territory,14.5
+2015,Male,New South Wales,16.8
+2015,Male,Victoria,17.2
+2015,Male,Queensland,24.9
+2015,Male,South Australia,19.4
+2015,Male,Western Australia,22.9
+2015,Male,Tasmania,25.7
+2015,Male,Northern Territory,27.2
+2015,Male,Australian Capital Territory,17.9
+2016,Male,New South Wales,16.1
+2016,Male,Victoria,14.6
+2016,Male,Queensland,22.4
+2016,Male,South Australia,19.5
+2016,Male,Western Australia,21.0
+2016,Male,Tasmania,25.5
+2016,Male,Northern Territory,30.7
+2016,Male,Australian Capital Territory,10.8
+2017,Male,New South Wales,18.1
+2017,Male,Victoria,16.1
+2017,Male,Queensland,25.4
+2017,Male,South Australia,18.7
+2017,Male,Western Australia,24.1
+2017,Male,Tasmania,24.0
+2017,Male,Northern Territory,27.9
+2017,Male,Australian Capital Territory,22.2
+2018,Male,New South Wales,17.8
+2018,Male,Victoria,16.0
+2018,Male,Queensland,25.6
+2018,Male,South Australia,17.7
+2018,Male,Western Australia,22.0
+2018,Male,Tasmania,23.2
+2018,Male,Northern Territory,31.3
+2018,Male,Australian Capital Territory,18.3
+2019,Male,New South Wales,17.7
+2019,Male,Victoria,16.6
+2019,Male,Queensland,23.8
+2019,Male,South Australia,22.5
+2019,Male,Western Australia,23.3
+2019,Male,Tasmania,26.4
+2019,Male,Northern Territory,28.3
+2019,Male,Australian Capital Territory,19.6
+2020,Male,New South Wales,16.0
+2020,Male,Victoria,15.4
+2020,Male,Queensland,23.7
+2020,Male,South Australia,20.4
+2020,Male,Western Australia,22.3
+2020,Male,Tasmania,26.6
+2020,Male,Northern Territory,25.6
+2020,Male,Australian Capital Territory,16
+2011,Female,New South Wales,4.0
+2011,Female,Victoria,4.3
+2011,Female,Queensland,6.2
+2011,Female,South Australia,5.5
+2011,Female,Western Australia,6.7
+2011,Female,Tasmania,8.9
+2011,Female,Northern Territory,4.7
+2011,Female,Australian Capital Territory,4.4
+2012,Female,New South Wales,5.3
+2012,Female,Victoria,4.3
+2012,Female,Queensland,6.8
+2012,Female,South Australia,5.7
+2012,Female,Western Australia,7.9
+2012,Female,Tasmania,5.4
+2012,Female,Northern Territory,5.5
+2012,Female,Australian Capital Territory,3.1
+2013,Female,New South Wales,5.1
+2013,Female,Victoria,4.5
+2013,Female,Queensland,6.7
+2013,Female,South Australia,6.0
+2013,Female,Western Australia,6.8
+2013,Female,Tasmania,7.4
+2013,Female,Northern Territory,8.4
+2013,Female,Australian Capital Territory,3.9
+2014,Female,New South Wales,5.5
+2014,Female,Victoria,4.9
+2014,Female,Queensland,6.7
+2014,Female,South Australia,6.6
+2014,Female,Western Australia,7.2
+2014,Female,Tasmania,4.7
+2014,Female,Northern Territory,18.7
+2014,Female,Australian Capital Territory,4.0
+2015,Female,New South Wales,5.3
+2015,Female,Victoria,5.3
+2015,Female,Queensland,7.5
+2015,Female,South Australia,7.5
+2015,Female,Western Australia,8.4
+2015,Female,Tasmania,6.9
+2015,Female,Northern Territory,13.6
+2015,Female,Australian Capital Territory,3.9
+2016,Female,New South Wales,5.0
+2016,Female,Victoria,5.7
+2016,Female,Queensland,6.3
+2016,Female,South Australia,6.8
+2016,Female,Western Australia,8.0
+2016,Female,Tasmania,9.2
+2016,Female,Northern Territory,6.5
+2016,Female,Australian Capital Territory,3.3
+2017,Female,New South Wales,5.2
+2017,Female,Victoria,6.3
+2017,Female,Queensland,8.0
+2017,Female,South Australia,7.3
+2017,Female,Western Australia,8.3
+2017,Female,Tasmania,6.8
+2017,Female,Northern Territory,10.2
+2017,Female,Australian Capital Territory,6.1
+2018,Female,New South Wales,5.5
+2018,Female,Victoria,5.3
+2018,Female,Queensland,6.7
+2018,Female,South Australia,6.2
+2018,Female,Western Australia,7.5
+2018,Female,Tasmania,5.8
+2018,Female,Northern Territory,6.3
+2018,Female,Australian Capital Territory,3.6
+2019,Female,New South Wales,5.3
+2019,Female,Victoria,5.0
+2019,Female,Queensland,7.4
+2019,Female,South Australia,5.7
+2019,Female,Western Australia,8.7
+2019,Female,Tasmania,13.1
+2019,Female,Northern Territory,13.0
+2019,Female,Australian Capital Territory,3.8
+2020,Female,New South Wales,5.2
+2020,Female,Victoria,5.0
+2020,Female,Queensland,6.2
+2020,Female,South Australia,6.3
+2020,Female,Western Australia,6.5
+2020,Female,Tasmania,6.1
+2020,Female,Northern Territory,15.5
+2020,Female,Australian Capital Territory,10.3
