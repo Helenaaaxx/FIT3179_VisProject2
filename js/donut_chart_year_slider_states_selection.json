@@ -83,17 +83,6 @@
           "Northern Territory",
           "Australian Capital Territory"
         ],
-        "labels": [
-          "Australia",
-          "New South Wales",
-          "Victoria",
-          "Queensland",
-          "South Australia",
-          "Western Australia",
-          "Tasmania",
-          "Northern Territory",
-          "Australian Capital Territory"
-        ],
         "name": "States Selection: "
       }
     },
@@ -110,7 +99,7 @@
     }
   ],
   "transform": [
-    {"filter": "datum.States == 'Australia' || datum.States == States"},
+    {"filter": "datum.States == States"},
     {"filter": "datum.Year == Year"}
   ],
   "config": {}
