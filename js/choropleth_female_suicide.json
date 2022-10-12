@@ -2,7 +2,10 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "width": 500,
     "height": 500,
-    "title": "Female",
+    "title": {
+      "text": "Female",
+      "fontSize": 18
+    },
     "background": "#FAF8F5",
     "data": {
         "url": "https://raw.githubusercontent.com/Helenaaaxx/FIT3179_VisProject2/main/Dataset/choropleth_suicide_female.csv"
@@ -48,11 +51,15 @@
                 "color": {
                     "field": "Rate",
                     "type": "quantitative",
-                    "scale": {"scheme": "redpurple"}
+                    "scale": {
+                      "scheme": "redpurple",
+                      "domain":[3,19]
+                    },
+                    "legend": {"titleFontSize":14}
                 },
                 "tooltip": [
                     {"field": "States", "type": "nominal", "title": "State"},
-                    {"field": "Rate", "type": "quantitative", "title": "Standardized Death Rate", "format": ".1f"},
+                    {"field": "Rate", "type": "quantitative", "title": "Standardised Death Rate (per 100,000)", "format": ".1f"},
                     {"field": "Year", "type": "ordinal", "title": "Year"}
                 ]
             }
@@ -162,7 +169,7 @@
               "baseline": "middle",
               "text": "Tasmania",
               "dx": 30,
-              "dy": 250,
+              "dy": 235,
               "fontSize": 11,
               "fontStyle": "italic",
               "fontWeight": "normal",

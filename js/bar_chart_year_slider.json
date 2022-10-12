@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "height": 600,
+  "height": 450,
   "width": 900,
   "background": "#FAF8F5",
   "data": {
@@ -27,13 +27,21 @@
         "x": {
           "field": "Number of Persons",
           "type": "quantitative",
-          "title": "Number of Deaths"
+          "title": "Number of Deaths",
+          "axis": {
+            "titleFontSize": 18,
+            "labelFontSize": 14
+          }
         },
         "y": {
           "field": "Causes of Death",
           "type": "nominal",
           "title": "Underlying Causes of Deaths",
-          "sort": "-x"
+          "sort": "-x",
+          "axis": {
+            "titleFontSize": 18,
+            "labelFontSize": 11.5
+          }
         },
         "color": {
           "field": "Causes of Death",
@@ -84,9 +92,9 @@
           "Ischamic heart disease contributes to",
           "greatest number of deaths over these years"
         ],
-        "dx": 32,
-        "dy": -275,
-        "fontSize": 11,
+        "dx": 120,
+        "dy": -210,
+        "fontSize": 12.5,
         "fontStyle": "italic",
         "fontWeight": "normal",
         "color": "white"

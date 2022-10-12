@@ -1,9 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "height": 600,
-  "width": 600,
+  "height": 420,
+  "width": 480,
   "background": "#FAF8F5",
-  "title": "Overall Deaths Caused by Cerebrovascular diseases (I60-I69) in Australia (2011-2020)",
   "data": {
     "url": "https://raw.githubusercontent.com/Helenaaaxx/FIT3179/main/Visualization%20Project%202/Dataset/overall_heatmap_dataset.csv"
   },
@@ -20,18 +19,25 @@
       "timeUnit": "year",
       "type": "ordinal",
       "title": "Year",
-      "axis": {"labelAngle": 0}
+      "axis":{
+        "titleFontSize": 18,
+        "labelFontSize": 14
+      }
     },
     "y": {
       "field": "Type",
       "type": "nominal",
       "title": "Types of Cerebrovascular Disease",
-      "axis": {"labelLimit": 196}
+      "axis":{
+        "titleFontSize": 18,
+        "labelFontSize": 11,
+        "labelLimit": 196
+      }
     },
     "color": {
       "field": "Number of Deaths",
       "type": "quantitative",
-      "legend": {"title": "Number of Deaths"},
+      "legend": {"title": "Number of Deaths", "titleFontSize": 18, "labelFontSize": 12},
       "scale": {"scheme": "yelloworangered"}
     },
     "tooltip": [

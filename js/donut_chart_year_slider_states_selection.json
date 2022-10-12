@@ -1,9 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "height": 600,
-  "width": 1000,
+  "height": 550,
+  "width": 935,
   "background": "#FAF8F5",
-  "title": "Deaths Caused by Malignant Neoplasms of Digestive Organs (C15-C26) (2011-2020)",
   "data": {
     "url": "https://raw.githubusercontent.com/Helenaaaxx/FIT3179/main/Visualization%20Project%202/Dataset/donut_chart_dataset.csv"
   },
@@ -22,7 +21,7 @@
     "color": {
       "field": "Malignant Neoplasm of",
       "type": "nominal",
-      "legend": {"orient": "right", "labelLimit": 300},
+      "legend": {"orient": "right", "labelLimit": 300, "titleFontSize": 18, "labelFontSize": 12.5, "title": "Type Selection:"},
       "scale": {
         "domain": [
           "Oesophagus (C15)",
@@ -54,6 +53,12 @@
         ]
       }
     },
+    "opacity": {
+      "condition": {
+        "param": "legend_selection", "value": 1
+      },
+      "value": 0.2
+    },
     "tooltip": [
       {"field": "Malignant Neoplasm of", "type": "nominal"},
       {"field": "Number of Deaths", "type": "quantitative", "format": ","},
@@ -61,7 +66,7 @@
       {"field": "States", "type": "nominal"}
     ],
     "order": {
-      "field": "Number of Deaths",
+      "field": "deaths",
       "type": "quantitative",
       "sort": "descending"
     }
@@ -96,9 +101,18 @@
         "step": 1,
         "name": "Year: "
       }
+    },
+    {
+      "name": "legend_selection",
+      "select": {
+        "type": "point",
+        "fields": ["Malignant Neoplasm of"]
+      },
+      "bind": "legend"
     }
   ],
   "transform": [
+    {"calculate": "1*datum['Number of Deaths']", "as": "deaths"},
     {"filter": "datum.States == States"},
     {"filter": "datum.Year == Year"}
   ]

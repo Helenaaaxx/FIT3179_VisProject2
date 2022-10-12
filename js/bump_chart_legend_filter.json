@@ -1,12 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": {
-    "text": "Relative Ranking of Death Rates in Australia by States (2011-2020)",
-    "fontSize": 16
-  },
   "background": "#FAF8F5",
-  "width": 600,
-  "height": 400,
+  "width": 900,
+  "height": 450,
   "data": {
     "url": "https://raw.githubusercontent.com/Helenaaaxx/FIT3179_VisProject2/main/Dataset/bump_chart_dataset.csv"
   },
@@ -19,8 +15,22 @@
   ],
   "mark": {"type": "line", "point": {"size": 400}, "size": 5},
   "encoding": {
-    "x": {"field": "Year", "type": "ordinal"},
-    "y": {"field": "Rank", "type": "ordinal"},
+    "x": {
+      "field": "Year", 
+      "type": "ordinal", 
+      "axis": {
+        "titleFontSize": 18,
+        "labelFontSize": 14
+      }
+    },
+    "y": {
+      "field": "Rank", 
+      "type": "ordinal",
+      "axis": {
+        "titleFontSize": 18,
+        "labelFontSize": 14
+      }
+    },
     "color": {
       "field": "State",
       "scale": {
@@ -45,7 +55,7 @@
           "#B1968A"
         ]
       },
-      "legend": {"title": "States Selection", "titleAlign": "left"}
+      "legend": {"title": "States Selection:", "titleAlign": "left", "titleFontSize": 18, "labelFontSize": 14}
     },
     "opacity": {
       "condition": {"param": "legend_filter", "value": 1},
@@ -57,7 +67,8 @@
       {
         "field": "Standardised Death Rate per thousand",
         "type": "quantitative",
-        "title": "Standardised Death Rate (per thousand)"
+        "title": "Standardised Death Rate (per thousand)",
+        "format": ".2f"
       },
       {"field": "Rank", "type": "quantitative", "title": "Rank"}
     ]

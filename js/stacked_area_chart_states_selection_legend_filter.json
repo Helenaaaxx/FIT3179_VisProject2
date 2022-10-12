@@ -1,6 +1,6 @@
 {
-  "height": 600,
-  "width": 600,
+  "height": 420,
+  "width": 565,
   "background": "#FAF8F5",
   "data": {
     "url": "https://raw.githubusercontent.com/Helenaaaxx/FIT3179/main/Visualization%20Project%202/Dataset/stacked_area_chart_dataset.csv"
@@ -11,12 +11,22 @@
       "timeUnit": "year",
       "field": "Year",
       "title": "Year",
-      "axis": {"domain": false}
+      "axis": {
+        "domain": false,
+        "axis":{
+          "titleFontSize": 18,
+          "labelFontSize": 14
+        }
+      }
     },
     "y": {
       "aggregate": "sum",
       "field": "Number of Deaths",
-      "title": "Number of Deaths"
+      "title": "Number of Deaths",
+      "axis":{
+        "titleFontSize": 18,
+        "labelFontSize": 14
+      }
     },
     "color": {
       "field": "Type",
@@ -30,7 +40,7 @@
         ],
         "range": ["#7E74A4", "#F2C381", "#EFC7D3", "#BBAD6D", "#B86986"]
       },
-      "legend": {"title": "Type of Ischaemic Heart Disease", "labelLimit": 200}
+      "legend": {"title": "Type Selection", "labelLimit": 200, "titleFontSize": 18, "labelFontSize": 11.5}
     },
     "opacity": {"condition": {"param": "Type", "value": 0.75}, "value": 0.2},
     "tooltip": [

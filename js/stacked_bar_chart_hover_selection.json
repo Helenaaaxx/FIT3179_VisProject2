@@ -1,14 +1,24 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 1000,
+  "width": 950,
   "height": 600,
   "background": "#FAF8F5",
   "data": {
     "url": "https://raw.githubusercontent.com/Helenaaaxx/FIT3179/main/Visualization%20Project%202/Dataset/stacked_bar_chart_dataset.csv"
   },
   "params": [
-    {"name": "highlight", "select": {"type": "point", "on": "mouseover"}},
-    {"name": "select", "select": "point"}
+    {"name": "select", 
+      "select": {
+        "type": "point"
+      }
+    },
+    {
+      "name": "highlight", 
+      "select": {
+        "type": "point", 
+        "on": "mouseover"
+      }
+    }
   ],
   "mark": {"type": "bar", "stroke": "black", "cursor": "pointer"},
   "encoding": {
@@ -16,9 +26,20 @@
       "timeUnit": "year",
       "field": "Year",
       "type": "ordinal",
-      "title": "Year"
+      "title": "Year",
+      "axis": {
+        "titleFontSize": 18,
+        "labelFontSize": 14
+      }
     },
-    "y": {"field": "Deaths", "type": "quantitative"},
+    "y": {
+      "field": "Deaths", 
+      "type": "quantitative",
+      "axis": {
+        "titleFontSize": 18,
+        "labelFontSize": 14
+      }
+    },
     "color": {
       "field": "Age Group",
       "type": "nominal",
@@ -46,21 +67,25 @@
           "#C4BFBE",
           "#B1968A"
         ]
-      }
+      },
+      "legend": {"titleFontSize": 18, "labelFontSize": 14}
+    },
+    "fillOpacity": {"condition": {"param": "select", "value": 1}, "value": 0.3},
+    "strokeWidth":{
+      "condition":[
+        {
+          "param": "highlight",
+          "empty": false,
+          "value": 1
+        }
+      ],
+      "value": 0
     },
     "tooltip": [
       {"field": "Age Group", "type": "nominal"},
       {"field": "Deaths", "type": "quantitative", "title": "Number of Deaths"},
       {"field": "Year", "type": "ordinal", "timeUnit": "year", "title": "Year"}
-    ],
-    "fillOpacity": {"condition": {"param": "select", "value": 1}, "value": 0.3},
-    "strokeWidth": {
-      "condition": [
-        {"param": "select", "empty": false, "value": 2},
-        {"param": "highlight", "empty": false, "value": 1}
-      ],
-      "value": 0
-    }
+    ]
   },
   "config": {}
 }

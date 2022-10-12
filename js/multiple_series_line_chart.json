@@ -4,14 +4,24 @@
     "url": "https://raw.githubusercontent.com/Helenaaaxx/FIT3179/main/Visualization%20Project%202/Dataset/multiple_series_line_chart_dataset.csv"
   },
   "width": 920,
-  "height": 600,
+  "height": 490,
   "background": "#FAF8F5",
-  "encoding": {"x": {"field": "Year", "type": "ordinal"}},
+  "encoding": {"x": {"field": "Year", "type": "ordinal", "axis": {
+    "titleFontSize": 18,
+    "labelFontSize": 14
+  }}},
   "layer": [
     {
       "encoding": {
-        "color": {"field": "Cause", "type": "nominal"},
-        "y": {"field": "Deaths", "type": "quantitative"}
+        "color": {
+          "field": "Cause", 
+          "type": "nominal",
+          "legend": {"titleFontSize": 18, "labelFontSize": 14, "labelLimit": 0}
+        },
+        "y": {"field": "Deaths", "type": "quantitative", "axis": {
+          "titleFontSize": 18,
+          "labelFontSize": 14
+        }}
       },
       "layer": [
         {"mark": 
