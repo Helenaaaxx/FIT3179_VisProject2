@@ -30,12 +30,6 @@ body {
   height: 100%;
 }
 
-.sub_divider h1{
-  font-weight: 800;
-  color:rgb(250, 248, 245);
-  text-align: center;
-}
-
 .main_bottom {
   background-color: rgb(64, 29, 34);
   width: 100%;
