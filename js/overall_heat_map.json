@@ -1,0 +1,47 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "height": 600,
+  "width": 600,
+  "background": "#FAF8F5",
+  "title": "Overall Deaths Caused by Cerebrovascular diseases (I60-I69) in Australia (2011-2020)",
+  "data": {
+    "url": "https://raw.githubusercontent.com/Helenaaaxx/FIT3179/main/Visualization%20Project%202/Dataset/overall_heatmap_dataset.csv"
+  },
+  "config": {"view": {"strokeWidth": 0, "step": 13}, "axis": {"domain": false}},
+  "mark": {
+    "type": "rect",
+    "stroke": "white",
+    "strokeWidth": 1.5,
+    "cursor": "pointer"
+  },
+  "encoding": {
+    "x": {
+      "field": "Year",
+      "timeUnit": "year",
+      "type": "ordinal",
+      "title": "Year",
+      "axis": {"labelAngle": 0}
+    },
+    "y": {
+      "field": "Type",
+      "type": "nominal",
+      "title": "Types of Cerebrovascular Disease",
+      "axis": {"labelLimit": 196}
+    },
+    "color": {
+      "field": "Number of Deaths",
+      "type": "quantitative",
+      "legend": {"title": "Number of Deaths"},
+      "scale": {"scheme": "yelloworangered"}
+    },
+    "tooltip": [
+      {
+        "field": "Type",
+        "type": "nominal",
+        "title": "Type of Ischaemic Heart Disease"
+      },
+      {"field": "Number of Deaths", "type": "quantitative", "format": ","},
+      {"field": "Year", "type": "ordinal", "timeUnit": "year", "title": "Year"}
+    ]
+  }
+}

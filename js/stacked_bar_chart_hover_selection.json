@@ -1,0 +1,66 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 1000,
+  "height": 600,
+  "background": "#FAF8F5",
+  "data": {
+    "url": "https://raw.githubusercontent.com/Helenaaaxx/FIT3179/main/Visualization%20Project%202/Dataset/stacked_bar_chart_dataset.csv"
+  },
+  "params": [
+    {"name": "highlight", "select": {"type": "point", "on": "mouseover"}},
+    {"name": "select", "select": "point"}
+  ],
+  "mark": {"type": "bar", "stroke": "black", "cursor": "pointer"},
+  "encoding": {
+    "x": {
+      "timeUnit": "year",
+      "field": "Year",
+      "type": "ordinal",
+      "title": "Year"
+    },
+    "y": {"field": "Deaths", "type": "quantitative"},
+    "color": {
+      "field": "Age Group",
+      "type": "nominal",
+      "title": "Age Group",
+      "scale": {
+        "domain": [
+          "0-14",
+          "15-24",
+          "25-34",
+          "35-44",
+          "45-54",
+          "55-64",
+          "65-74",
+          "75-84",
+          "85 and over"
+        ],
+        "range": [
+          "#F2C381",
+          "#EFC7D3",
+          "#B86986",
+          "#7A7270",
+          "#97B9B6",
+          "#E79CB5",
+          "#C5C1EC",
+          "#C4BFBE",
+          "#B1968A"
+        ]
+      }
+    },
+    "tooltip": [
+      {"field": "Age Group", "type": "nominal"},
+      {"field": "Deaths", "type": "quantitative", "title": "Number of Deaths"},
+      {"field": "Year", "type": "ordinal", "timeUnit": "year", "title": "Year"}
+    ],
+    "fillOpacity": {"condition": {"param": "select", "value": 1}, "value": 0.3},
+    "strokeWidth": {
+      "condition": [
+        {"param": "select", "empty": false, "value": 2},
+        {"param": "highlight", "empty": false, "value": 1}
+      ],
+      "value": 0
+    }
+  },
+  "config": {}
+}

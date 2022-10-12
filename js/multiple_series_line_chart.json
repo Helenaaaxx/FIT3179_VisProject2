@@ -1,0 +1,58 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/Helenaaaxx/FIT3179/main/Visualization%20Project%202/Dataset/multiple_series_line_chart_dataset.csv"
+  },
+  "width": 920,
+  "height": 600,
+  "background": "#FAF8F5",
+  "encoding": {"x": {"field": "Year", "type": "ordinal"}},
+  "layer": [
+    {
+      "encoding": {
+        "color": {"field": "Cause", "type": "nominal"},
+        "y": {"field": "Deaths", "type": "quantitative"}
+      },
+      "layer": [
+        {"mark": "line"},
+        {
+          "transform": [{"filter": {"param": "hover", "empty": false}}],
+          "mark": "point"
+        }
+      ]
+    },
+    {
+      "transform": [{"pivot": "Cause", "value": "Deaths", "groupby": ["Year"]}],
+      "mark": "rule",
+      "encoding": {
+        "opacity": {
+          "condition": {"value": 0.3, "param": "hover", "empty": false},
+          "value": 0
+        },
+        "tooltip": [
+          {"field": "Falls (W00-W19)", "type": "quantitative"},
+          {"field": "Intentional Self-harm (X60-X84)", "type": "quantitative"},
+          {"field": "Noxious Substances Poisoning (X40-X49)", "type": "quantitative"},
+          {"field": "Car Accident (V40-V49)", "type": "quantitative"},
+          {"field": "Undetermined Intent (Y10-Y34)", "type": "quantitative"},
+          {"field": "Assault (X85-Y09)", "type": "quantitative"},
+          {"field": "Motorcycle Accident (V20-V29)", "type": "quantitative"},
+          {"field": "Breathing Threats (W75-W84)", "type": "quantitative"}
+        ]
+      },
+      "params": [
+        {
+          "name": "hover",
+          "select": {
+            "type": "point",
+            "fields": ["Year"],
+            "nearest": true,
+            "on": "mouseover",
+            "clear": "mouseout"
+          }
+        }
+      ]
+    }
+  ],
+  "config": {}
+}

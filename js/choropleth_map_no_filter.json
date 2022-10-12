@@ -1,0 +1,162 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Death rate per 100,000 resident population of Australia by States (2020)",
+  "width": 900,
+  "height": 600,
+  "background": "#FAF8F5",
+  "projection": {"type": "equalEarth"},
+  "data": {
+    "url": "https://raw.githubusercontent.com/Helenaaaxx/FIT3179/main/Visualization%20Project%202/map%20data/STE_2021_AUST_GDA2020%20(1).json",
+    "format": {"type": "topojson", "feature": "STE_2021_AUST_GDA2020"}
+  },
+  "transform": [
+    {
+      "lookup": "properties.STE_NAME21",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/Helenaaaxx/FIT3179/main/Visualization%20Project%202/Dataset/choropleth_overall_death_rate_2020.csv"
+        },
+        "key": "States",
+        "fields": ["Rate"]
+      }
+    }
+  ],
+  "layer": [
+    {
+      "mark": {
+        "type": "geoshape",
+        "stroke": "white",
+        "strokeWidth": 2,
+        "cursor": "pointer"
+      },
+      "encoding": {
+        "color": {
+          "field": "Rate",
+          "type": "quantitative",
+          "scale": {"scheme": "oranges"}
+        },
+        "tooltip": [
+          {
+            "field": "properties.STE_NAME21",
+            "type": "nominal",
+            "title": "States"
+          },
+          {"field": "Rate", "type": "quantitative", "format": ".1f"}
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "text": "Victoria",
+        "dx": 34,
+        "dy": 190,
+        "fontSize": 11,
+        "fontStyle": "italic",
+        "fontWeight": "normal",
+        "color": "black"
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "text": "New South Wales",
+        "dx": 75,
+        "dy": 125,
+        "fontSize": 11,
+        "fontStyle": "italic",
+        "fontWeight": "normal",
+        "color": "black"
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "text": "South Australia",
+        "dx": -45,
+        "dy": 60,
+        "fontSize": 11,
+        "fontStyle": "italic",
+        "fontWeight": "normal",
+        "color": "black"
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "text": "Australian Capital Territory",
+        "dx": 98,
+        "dy": 150,
+        "fontSize": 11,
+        "fontStyle": "italic",
+        "fontWeight": "normal",
+        "color": "black"
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "text": "Queensland",
+        "dx": 120,
+        "dy": -30,
+        "fontSize": 11,
+        "fontStyle": "italic",
+        "fontWeight": "normal",
+        "color": "black"
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "text": "Northern Territory",
+        "dx": -23,
+        "dy": -55,
+        "fontSize": 11,
+        "fontStyle": "italic",
+        "fontWeight": "normal",
+        "color": "black"
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "text": "Western Australia",
+        "dx": -170,
+        "dy": -21,
+        "fontSize": 11,
+        "fontStyle": "italic",
+        "fontWeight": "normal",
+        "color": "black"
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "text": "Tasmania",
+        "dx": 30,
+        "dy": 250,
+        "fontSize": 11,
+        "fontStyle": "italic",
+        "fontWeight": "normal",
+        "color": "black"
+      }
+    }
+  ],
+  "config": {}
+}
