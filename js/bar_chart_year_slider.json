@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "height": 600,
-  "width": "container",
+  "width": 900,
   "background": "#FAF8F5",
   "data": {
     "url": "https://raw.githubusercontent.com/Helenaaaxx/FIT3179/main/Visualization%20Project%202/Dataset/bar_chart_dataset.csv"

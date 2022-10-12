@@ -14,7 +14,9 @@
         "y": {"field": "Deaths", "type": "quantitative"}
       },
       "layer": [
-        {"mark": "line"},
+        {"mark": 
+          {"type": "line", "strokeWidth": 3}
+        },
         {
           "transform": [{"filter": {"param": "hover", "empty": false}}],
           "mark": "point"

@@ -1,0 +1,66 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Relative Ranking of Death Rates in Australia by States (2011-2020)",
+    "fontSize": 16
+  },
+  "background": "#FAF8F5",
+  "width": 600,
+  "height": 400,
+  "data": {
+    "url": "https://raw.githubusercontent.com/Helenaaaxx/FIT3179_VisProject2/main/Dataset/bump_chart_dataset.csv"
+  },
+  "params": [
+    {
+      "name": "legend_filter",
+      "select": {"type": "point", "fields": ["State"]},
+      "bind": "legend"
+    }
+  ],
+  "mark": {"type": "line", "point": {"size": 400}, "size": 5},
+  "encoding": {
+    "x": {"field": "Year", "type": "ordinal"},
+    "y": {"field": "Rank", "type": "ordinal"},
+    "color": {
+      "field": "State",
+      "scale": {
+        "domain": [
+          "New South Wales",
+          "Victoria",
+          "Queensland",
+          "South Australia",
+          "Western Australia",
+          "Tasmania",
+          "Northern Territory",
+          "Australian Capital Territory"
+        ],
+        "range": [
+          "#F2C381",
+          "#EFC7D3",
+          "#B86986",
+          "#7A7270",
+          "#97B9B6",
+          "#E79CB5",
+          "#7E74A4",
+          "#B1968A"
+        ]
+      },
+      "legend": {"title": "States Selection", "titleAlign": "left"}
+    },
+    "opacity": {
+      "condition": {"param": "legend_filter", "value": 1},
+      "value": 0.2
+    },
+    "tooltip": [
+      {"field": "Year", "type": "ordinal", "title": "Year"},
+      {"field": "State", "type": "nominal", "title": "Country"},
+      {
+        "field": "Standardised Death Rate per thousand",
+        "type": "quantitative",
+        "title": "Standardised Death Rate (per thousand)"
+      },
+      {"field": "Rank", "type": "quantitative", "title": "Rank"}
+    ]
+  },
+  "config": {}
+}

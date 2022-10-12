@@ -36,13 +36,13 @@
       "lookup": "States",
       "from": {
         "data": {
-          "url": "https://raw.githubusercontent.com/Helenaaaxx/FIT3179/main/Visualization%20Project%202/map%20data/STE_2021_AUST_GDA2020%20(1).json",
+          "url": "https://raw.githubusercontent.com/Helenaaaxx/FIT3179/main/Week_9_Homework/ne_10m_admin_1_states_provinces.json",
           "format": {
             "type": "topojson",
-            "feature": "STE_2021_AUST_GDA2020"
+            "feature": "My_Australia_States_Map_Final"
           }
         },
-        "key": "properties.STE_NAME21"
+        "key": "properties.name"
       },
       "as": "geo"
     },

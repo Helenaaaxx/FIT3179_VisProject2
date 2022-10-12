@@ -1,0 +1,173 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 500,
+    "height": 500,
+    "title": "Male",
+    "background": "#FAF8F5",
+    "data": {
+        "url": "https://raw.githubusercontent.com/Helenaaaxx/FIT3179_VisProject2/main/Dataset/choropleth_suicide_male.csv"
+    },
+    "projection": {
+      "type": "equalEarth"
+    },
+    "params": [
+      {
+        "name": "Year",
+        "value": 2011,
+        "bind": {
+          "input": "range",
+          "min": 2011,
+          "max": 2020,
+          "step": 1,
+          "name": "Year Selection: "
+        }
+      }
+    ],
+    "transform": [
+      {
+        "lookup": "States",
+        "from": {
+          "data": {
+            "url": "https://raw.githubusercontent.com/Helenaaaxx/FIT3179/main/Week_9_Homework/ne_10m_admin_1_states_provinces.json",
+            "format": {
+              "type": "topojson",
+              "feature": "My_Australia_States_Map_Final"
+            }
+          },
+          "key": "properties.name"
+        },
+        "as": "geo"
+      },
+      {"filter": "datum.Year == Year"}
+    ],
+    "layer": [
+        {
+            "mark": {"type": "geoshape", "stroke": "#fff", "strokeWidth": 1, "cursor": "pointer"},
+            "encoding": {
+                "shape": {"field": "geo", "type": "geojson"},
+                "color": {
+                    "field": "Rate",
+                    "type": "quantitative",
+                    "scale": {"scheme": "tealblues"}
+                },
+                "tooltip": [
+                    {"field": "States", "type": "nominal", "title": "State"},
+                    {"field": "Rate", "type": "quantitative", "title": "Standardized Death Rate", "format": ".1f"},
+                    {"field": "Year", "type": "ordinal", "title": "Year"}
+                ]
+            }
+        },
+        {
+            "mark": {
+              "type": "text",
+              "align": "left",
+              "baseline": "middle",
+              "text": "Victoria",
+              "dx": 34,
+              "dy": 155,
+              "fontSize": 11,
+              "fontStyle": "italic",
+              "fontWeight": "normal",
+              "color": "black"
+            }
+          },
+          {
+            "mark": {
+              "type": "text",
+              "align": "left",
+              "baseline": "middle",
+              "text": "New South Wales",
+              "dx": 75,
+              "dy": 95,
+              "fontSize": 11,
+              "fontStyle": "italic",
+              "fontWeight": "normal",
+              "color": "black"
+            }
+          },
+          {
+            "mark": {
+              "type": "text",
+              "align": "left",
+              "baseline": "middle",
+              "text": "South Australia",
+              "dx": -40,
+              "dy": 50,
+              "fontSize": 11,
+              "fontStyle": "italic",
+              "fontWeight": "normal",
+              "color": "black"
+            }
+          },
+          {
+            "mark": {
+              "type": "text",
+              "align": "left",
+              "baseline": "middle",
+              "text": "Australian Capital Territory",
+              "dx": 98,
+              "dy": 150,
+              "fontSize": 11,
+              "fontStyle": "italic",
+              "fontWeight": "normal",
+              "color": "black"
+            }
+          },
+          {
+            "mark": {
+              "type": "text",
+              "align": "left",
+              "baseline": "middle",
+              "text": "Queensland",
+              "dx": 120,
+              "dy": -30,
+              "fontSize": 11,
+              "fontStyle": "italic",
+              "fontWeight": "normal",
+              "color": "black"
+            }
+          },
+          {
+            "mark": {
+              "type": "text",
+              "align": "left",
+              "baseline": "middle",
+              "text": "Northern Territory",
+              "dx": -11,
+              "dy": -55,
+              "fontSize": 11,
+              "fontStyle": "italic",
+              "fontWeight": "normal",
+              "color": "black"
+            }
+          },
+          {
+            "mark": {
+              "type": "text",
+              "align": "left",
+              "baseline": "middle",
+              "text": "Western Australia",
+              "dx": -170,
+              "dy": -21,
+              "fontSize": 11,
+              "fontStyle": "italic",
+              "fontWeight": "normal",
+              "color": "black"
+            }
+          },
+          {
+            "mark": {
+              "type": "text",
+              "align": "left",
+              "baseline": "middle",
+              "text": "Tasmania",
+              "dx": 30,
+              "dy": 250,
+              "fontSize": 11,
+              "fontStyle": "italic",
+              "fontWeight": "normal",
+              "color": "black"
+            }
+        }
+    ]
+  }
